@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/froya-french-collection-wholesale-sunglasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-03-21T09:21:42-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6548308623449</id>
+    <published>2021-03-21T09:21:42-07:00</published>
+    <updated>2021-03-21T09:21:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6522-one-piece-flat-top-plastic-sunglasses"/>
+    <title>FC 6522 - One Piece Flat Top Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1971.jpg?v=1616349695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale flat top sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6548308623449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>FC6522</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6548308066393</id>
+    <published>2021-03-21T09:19:23-07:00</published>
+    <updated>2021-03-21T09:19:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6521-small-rectangular-cat-eye-sunglasses"/>
+    <title>FC 6521 - Small Rectangular Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1910.jpg?v=1616343564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale rectangular cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6548308066393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FC6521</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6546725732441</id>
+    <published>2021-03-21T09:16:11-07:00</published>
+    <updated>2021-03-21T09:16:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6520-plastic-round-cat-eye-wavy-temple-sunglasses"/>
+    <title>FC 6520 - Plastic Round Cat Eye Wavy Temple Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1904.jpg?v=1616024835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale round cat eye sunglasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6546725732441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>FC6520</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6546706989145</id>
+    <published>2021-03-19T16:54:08-07:00</published>
+    <updated>2021-03-19T16:54:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6518-fashion-plastic-cat-eye-sunglasses"/>
+    <title>FC 6518 - Fashion Plastic Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1621.jpg?v=1616020187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6546706989145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FC6518</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4764617506905</id>
+    <published>2020-12-17T11:15:16-08:00</published>
+    <updated>2020-12-17T11:15:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-thick-frame-oval-shaped-sunglasses-fc-6514"/>
+    <title>FC 6514 - Thick Frame Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0854_19834440-de6b-4ec1-96ec-9744ddba5b9c.jpg?v=1608314611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale oval-shaped sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4764617506905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6514</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4741933858905</id>
+    <published>2020-10-23T14:19:13-07:00</published>
+    <updated>2020-10-23T14:19:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-classic-round-metal-sunglasses-fc-6515"/>
+    <title>FC 6515 - Classic Round Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0387.jpg?v=1605812238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale round sunglasses for men and women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4741933858905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>FC6515</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470323839065</id>
+    <published>2020-08-15T09:15:48-07:00</published>
+    <updated>2020-08-15T09:15:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-fashion-square-butterfly-sunglasses-fc-6483"/>
+    <title>FC 6483 - Fashion Square Butterfly Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7411.jpg?v=1614964851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale fashion sunglasses</p>
+<p>Measurements: 56-17-145 B:55</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>square</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470323839065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FC6483</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470403367001</id>
+    <published>2020-08-15T09:15:34-07:00</published>
+    <updated>2020-08-15T09:15:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-large-retro-designer-butterfly-sunglasses-fc-6495"/>
+    <title>FC 6495 - Large Retro Designer Butterfly Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7611.jpg?v=1614964673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale retro sunglasses</p>
+<p>Measurements: 52-18-147 B:51</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470403367001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FC6495</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4671500845145</id>
+    <published>2020-07-02T14:32:42-07:00</published>
+    <updated>2020-07-02T14:32:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-fashion-metal-butterfly-sunglasses-fc-6512"/>
+    <title>FC 6512 - Fashion Metal Butterfly Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9591.jpg?v=1593634628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale fashion metal sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4671500845145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6512</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470721609817</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-chain-link-design-oval-shaped-sunglasses-fc-6511"/>
+    <title>FC 6511 - Chain Link Design Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9011.jpg?v=1611355583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale fashion oval shaped sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470721609817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6511</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470713417817</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-metal-butterfly-sunglasses-tear-drop-pearls-fc-6508"/>
+    <title>FC 6508 - Metal Butterfly Sunglasses with Tear Drop Pearls</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8018_-_Copy.jpg?v=1582023412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale butterfly sunglasses</p>
+<p>Measurements: 59-16-140 B:55</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470713417817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FC6508</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470709485657</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-oval-shaped-sunglasses-flat-lens-tear-drop-pearl-fc-6507"/>
+    <title>FC 6507 - Oval Shaped Sunglasses with Flat Lens and Tear Drop Pearl</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8462.jpg?v=1585046262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale oval shaped sunglasses with flat lens</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470709485657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6507</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470697361497</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-rimless-butterfly-sunglasses-round-pearls-fc-6505"/>
+    <title>FC 6505 - Rimless Butterfly Sunglasses with Round Pearls</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8048_-_Copy.jpg?v=1582023411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale butterfly sunglasses</p>
+<p>Measurements: 61-14-137 B:58</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470697361497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FC6505</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470691725401</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-fashion-butterfly-sunglasses-round-pearls-fc-6504"/>
+    <title>FC 6504 - Fashion Butterfly Sunglasses with Round Pearls</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8042_-_Copy.jpg?v=1582023411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale sunglasses</p>
+<p>Measurements: 60-16-137 B:55</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470691725401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FC6504</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470683435097</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-metal-fashion-oval-shaped-sunglasses-fc-6502"/>
+    <title>FC 6502 - Metal Fashion Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7701_-_Copy.jpg?v=1582023410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale oval shaped sunglasses</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470683435097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6502</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470681960537</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-rimless-metal-oval-shaped-sunglasses-pearls-fc-6501"/>
+    <title>FC 6501 - Rimless Metal Oval Shaped Sunglasses with Pearls</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7691_c9995a9b-a7d8-4e5a-8aef-0daabe6e2f34.jpg?v=1596845792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 1.4em;">wholesale fashion oval shaped sunglasses</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470681960537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6501</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470679502937</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-designer-oval-shaped-sunglasses-round-pearls-fc-6500"/>
+    <title>FC 6500 - Designer Oval Shaped Sunglasses with Round Pearls</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7683.jpg?v=1582023408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale oval shaped sunglasses</p>
+<p>Measurements: 59-15-136 B:51</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470679502937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6500</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470482698329</id>
+    <published>2020-02-12T11:04:07-08:00</published>
+    <updated>2020-02-12T11:04:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-classic-fashion-plastic-sunglasses-flat-lens-fc-6498"/>
+    <title>FC 6498 - Classic Fashion Plastic Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7554.jpg?v=1582023406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale sunglasses</p>
+<p>Measurements: 53-18-150 B:43</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470482698329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>FC6498</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470389702745</id>
+    <published>2020-02-12T11:04:07-08:00</published>
+    <updated>2020-02-12T11:04:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6493-fashion-sunglasses-with-flat-lens-and-rhinestones"/>
+    <title>FC 6493 - Fashion Sunglasses with Flat Lens and Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7633_53b35880-550e-49ad-a74f-c526a4197a6e.jpg?v=1618264633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale womens sunglasses</p>
+<p>Measurements: 56-18-150 B:48</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470389702745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FC6493</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470384066649</id>
+    <published>2020-02-12T11:04:07-08:00</published>
+    <updated>2020-02-12T11:04:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-fashion-square-sunglasses-fc-6492"/>
+    <title>FC 6492 - Plastic Fashion Square Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7423.jpg?v=1614964768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale sunglasses</p>
+<p>Measurements: 55-16-148 B:53</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>square</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470384066649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FC6492</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470361358425</id>
+    <published>2020-02-12T11:04:07-08:00</published>
+    <updated>2020-02-12T11:04:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6489-large-retro-cat-eye-sunglasses-with-flat-lens"/>
+    <title>FC 6489 - Large Retro Cat Eye Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7596.jpg?v=1582024062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale sunglasses with flat lens</p>
+<p>Measurements: 50-19-150 B:47</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>retro</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470361358425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FC6489</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2132025442393</id>
+    <published>2019-07-12T15:05:46-07:00</published>
+    <updated>2019-07-12T15:05:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-round-flat-lens-plastic-sunglasses-metal-accent-fc-6481"/>
+    <title>FC 6481 - Round Flat Lens Plastic Sunglasses with Metal Accent</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6481_-_1.jpg?v=1614964883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale round sunglasses for women</p>
+<p>Measurements: 54-20-146 B:53</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2132025442393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FC 6481</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2002469814361</id>
+    <published>2019-03-01T14:21:29-08:00</published>
+    <updated>2019-03-01T14:21:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-semi-rimless-round-lens-metal-cat-eye-sunglasses-fc-6458"/>
+    <title>FC 6458 - Semi Rimless Round Lens Metal Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6458_-_White_Light_Brown.jpg?v=1579603141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2002469814361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC 6458</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2002475843673</id>
+    <published>2019-03-01T14:21:05-08:00</published>
+    <updated>2019-03-01T14:21:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-retro-aviator-with-brow-bar-plastic-sunglasses-fc-6462"/>
+    <title>FC 6462 - Retro Oval Shaped with Brow Bar Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6462_-_Black_Tortoise_Smoke.jpg?v=1579603144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale oval shaped sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>retro</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2002475843673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FC 6462</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2003299795033</id>
+    <published>2019-03-01T14:20:05-08:00</published>
+    <updated>2019-03-01T14:20:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-rectangular-fashion-rhinestone-temple-plastic-sunglasses-fc-6468"/>
+    <title>FC 6468 - Rectangular Fashion Rhinestone Temple Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6468_-_Clear_Black_Mirror.jpg?v=1618264587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2003299795033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>FC 6468</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

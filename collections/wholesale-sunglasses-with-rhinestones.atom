@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-sunglasses-with-rhinestones.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2020-02-12T11:04:07-08:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470389702745</id>
+    <published>2020-02-12T11:04:07-08:00</published>
+    <updated>2020-02-12T11:04:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6493-fashion-sunglasses-with-flat-lens-and-rhinestones"/>
+    <title>FC 6493 - Fashion Sunglasses with Flat Lens and Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7633_53b35880-550e-49ad-a74f-c526a4197a6e.jpg?v=1618264633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale womens sunglasses</p>
+<p>Measurements: 56-18-150 B:48</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470389702745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FC6493</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4452740268121</id>
+    <published>2020-01-31T13:00:13-08:00</published>
+    <updated>2020-01-31T13:00:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-rectangular-plastic-sunglasses-rhinestones-pld-01"/>
+    <title>PLD-01 - Rectangular Plastic Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7672.jpg?v=1580813299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses with rhinestones</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4452740268121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>PLD01</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8732470732</id>
+    <published>2019-08-15T11:28:29-07:00</published>
+    <updated>2019-08-15T11:28:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-womens-cover-over-rhinestones-pl-7833-bx"/>
+    <title>PL 7833 BX - Women&apos;s Cover Over Polarized Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8314.jpg?v=1627590530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk cover over sunglasses with rhinestones</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>fit over</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8732470732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>PL7833BX</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2003299795033</id>
+    <published>2019-03-01T14:20:05-08:00</published>
+    <updated>2019-03-01T14:20:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-rectangular-fashion-rhinestone-temple-plastic-sunglasses-fc-6468"/>
+    <title>FC 6468 - Rectangular Fashion Rhinestone Temple Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6468_-_Clear_Black_Mirror.jpg?v=1618264587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2003299795033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>FC 6468</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/65761574937</id>
+    <published>2017-09-11T09:46:26-07:00</published>
+    <updated>2017-09-11T09:46:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-butterfly-women-rhinestone-fc-6369"/>
+    <title>FC 6369 - Women Butterfly with Rhinestone Accent Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6369_-_7.jpg?v=1579604393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/65761574937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>SKU02795</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9470416908</id>
+    <published>2017-01-20T12:36:00-08:00</published>
+    <updated>2017-01-20T12:36:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-womens-butterfly-sunglasses-cut-out-temple-rhinestones-4319"/>
+    <title>4319 - Women&apos;s Butterfly Sunglasses with Cut Out Temple and Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/4319_-_3.jpg?v=1555410396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9470416908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU00351</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8908122892</id>
+    <published>2016-11-14T11:35:00-08:00</published>
+    <updated>2016-11-14T11:35:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-butterfly-frame-with-rhinestones-womens-metal-detail-temple-plastic-pld-17"/>
+    <title>PLD-17 - Butterfly Frame with Rhinestones Metal Detail Temple Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PLD-17.jpg?v=1579603437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8908122892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SKU02470</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8908114380</id>
+    <published>2016-11-14T11:34:00-08:00</published>
+    <updated>2016-11-14T11:34:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-square-frame-with-rhinestones-womens-pld-14"/>
+    <title>PLD-14 - Square Frame with Rhinestones Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PLD-14.jpg?v=1579603435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8908114380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>SKU02469</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8908097868</id>
+    <published>2016-11-14T11:30:00-08:00</published>
+    <updated>2016-11-14T11:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-square-frame-with-rhinestones-meal-detail-temple-plastic-pld-11"/>
+    <title>PLD-11 - Square Frame with Rhinestones Metal Detail Temple Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PLD-11.jpg?v=1579603434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8908097868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>SKU02467</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892823244</id>
+    <published>2016-11-11T10:18:50-08:00</published>
+    <updated>2016-11-11T10:18:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-rectangular-fashion-rhinestones-8441"/>
+    <title>8440 - Women&apos;s Rectangular Fashion Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8440.jpg?v=1579604633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892823244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU00926</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892823052</id>
+    <published>2016-11-11T10:18:48-08:00</published>
+    <updated>2016-11-11T10:18:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-rectangular-fashion-rhinestones-8440"/>
+    <title>8439 - Women&apos;s Rectangular Fashion Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8439.jpg?v=1579604632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892823052</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>SKU00923</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8869645580</id>
+    <published>2016-11-08T13:25:00-08:00</published>
+    <updated>2016-11-08T13:25:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-rectangular-chunky-rhinestones-cross-concho-7674"/>
+    <title>7674 Brown - Rectangular Chunky Sunglasses with Rhinestones and Cross Concho</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7674_Brown_-_3.jpg?v=1555411103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concho</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8869645580</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SKU00609</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8848984268</id>
+    <published>2016-11-04T11:55:00-07:00</published>
+    <updated>2016-11-04T11:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-womens-sunglasses-cat-eye-rhinestones-8624-rh"/>
+    <title>8624 RH - Women&apos;s Retro Cat Eye Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8624_RH_-_1.jpg?v=1579604718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8848984268</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>SKU02452</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8848613644</id>
+    <published>2016-11-04T10:31:00-07:00</published>
+    <updated>2016-11-04T10:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-square-rhinestones-chain-detail-temple-clear-color-frame-7521-bx"/>
+    <title>7521 BX - Square Clear Color Frame Sunglasses with Rhinestone and Chain Detail Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7521_BX.jpg?v=1555411057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8848613644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SKU00517</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8837030156</id>
+    <published>2016-11-01T13:43:00-07:00</published>
+    <updated>2016-11-01T13:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-chunky-square-frame-with-rhinestone-plastic-pld-18"/>
+    <title>PLD-18 - Chunky Square Frame with Rhinestones Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PLD-18.1.jpg?v=1579603437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8837030156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>SKU02440</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8830959884</id>
+    <published>2016-10-31T13:50:00-07:00</published>
+    <updated>2016-10-31T13:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/womens-wholesale-sunglasses-square-fashion-rhinestones-8333-bx"/>
+    <title>8333 BX - Women&apos;s Square Fashion Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8333_BX.jpg?v=1579604626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8830959884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU00909</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8816339212</id>
+    <published>2016-10-27T14:33:00-07:00</published>
+    <updated>2016-10-27T14:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-fashion-metal-accent-rhinestones"/>
+    <title>7585 BX - Womens Fashion Sunglasses with Metal Accent and Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_4611.jpg?v=1555411076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8816339212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU00551</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8816307916</id>
+    <published>2016-10-27T14:29:00-07:00</published>
+    <updated>2016-10-27T14:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-clear-color-rectangular-rhinestones-7572-bx"/>
+    <title>7572 BX - Womens Clear Color Rectangular Sunglasses with Rhinestones and Metal Accent</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7572_BX_-_3.jpg?v=1555411065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8816307916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU00531</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8815995084</id>
+    <published>2016-10-27T13:50:00-07:00</published>
+    <updated>2016-10-27T13:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-chunky-square-womens-sunglasses-rhinestones-7374"/>
+    <title>7374 - Chunky Square Women&apos;s Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7374_-_6.jpg?v=1555411041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8815995084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>SKU00490</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8777519244</id>
+    <published>2016-10-20T10:59:00-07:00</published>
+    <updated>2016-10-20T10:59:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-womens-fashion-sunglasses-flower-rhinestones-6426"/>
+    <title>6426 - Large Women&apos;s Fashion Sunglasses with Flower and Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/6426.jpg?v=1611963252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8777519244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SKU00453</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731835468</id>
+    <published>2016-10-11T11:43:00-07:00</published>
+    <updated>2016-10-11T11:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-women-square-fashion-plastic-rhinestones-pl-7586-bx"/>
+    <title>PL 7585 BX - Women&apos;s Square Fashion Plastic Polarized Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_7585_BX_-_3.jpg?v=1579603306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731835468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>SKU01623</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

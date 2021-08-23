@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-polarized-sunglasses-metal.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-07-31T13:46:15-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674988269657</id>
+    <published>2021-07-31T13:46:15-07:00</published>
+    <updated>2021-07-31T13:46:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pl-2511-polarized-rectangular-metal-sunglasses"/>
+    <title>PL 2511 - Polarized Rectangular Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL2511-3.jpg?v=1627764376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1.1 MM Polarized Lens</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674988269657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>PL2511</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550948020313</id>
+    <published>2021-03-25T14:48:36-07:00</published>
+    <updated>2021-03-25T14:48:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-345-polarized-aluminum-magnesium-alloy-full-frame-semi-rimless-sports-sunglasses"/>
+    <title>XD PL 345 - Polarized Aluminum-Magnesium Alloy Full Frame Semi Rimless Sports Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2245.jpg?v=1616708925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale aluminun polarized sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550948020313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550946775129</id>
+    <published>2021-03-25T14:44:35-07:00</published>
+    <updated>2021-03-25T14:44:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-292-polarized-aluminum-magnesium-alloy-full-frame-semi-rimless-sports-sunglasses"/>
+    <title>XD PL 292 - Polarized Aluminum-Magnesium Alloy Full Frame Semi Rimless Sports Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2246.jpg?v=1616708684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale full aluminum frame sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550946775129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550946447449</id>
+    <published>2021-03-25T14:43:09-07:00</published>
+    <updated>2021-03-25T14:43:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-273-polarized-aluminum-magnesium-alloy-full-frame-semi-rimless-sports-sunglasses"/>
+    <title>XD PL 273 - Polarized Aluminum-Magnesium Alloy Full Frame Semi Rimless Sports Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2243.jpg?v=1616708609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale full aluminum frame sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550946447449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550946381913</id>
+    <published>2021-03-25T14:42:25-07:00</published>
+    <updated>2021-03-25T14:42:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pl-257-polarized-aluminum-magnesium-alloy-full-frame-rectangular-sunglasses"/>
+    <title>XD PL 257 - Polarized Aluminum-Magnesium Alloy Full Frame Rectangular Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2242.jpg?v=1616708558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale full aluminum frame sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550946381913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550945792089</id>
+    <published>2021-03-25T14:40:19-07:00</published>
+    <updated>2021-03-25T14:40:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-226-polarized-aluminum-magnesium-alloy-full-frame-semi-rimless-sports-sunglasses"/>
+    <title>XD PL 226 - Polarized Aluminum-Magnesium Alloy Full Frame Semi Rimless Sports Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2247.jpg?v=1616708427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale full aluminum frame sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550945792089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550944088153</id>
+    <published>2021-03-25T14:31:05-07:00</published>
+    <updated>2021-03-25T14:31:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-100-polarized-aluminum-magnesium-alloy-full-frame-sports-semi-rimless-sunglasses"/>
+    <title>XD PL 100 - Polarized Aluminum-Magnesium Alloy Full Frame Sports Semi Rimless Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2244.jpg?v=1616707884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sports aluminum sunglasses for men</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550944088153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550278045785</id>
+    <published>2021-03-24T13:03:16-07:00</published>
+    <updated>2021-03-24T13:03:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-300-polarized-aluminum-magnesium-alloy-full-frame-semi-rimless-sunglasses"/>
+    <title>XD PL 300 - Polarized Aluminum-Magnesium Alloy Full Frame Semi Rimless Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2033.jpg?v=1616616208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale full aluminum frame sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550278045785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6550260056153</id>
+    <published>2021-03-24T12:48:46-07:00</published>
+    <updated>2021-03-24T12:48:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-175-polarized-aluminum-magnesium-alloy-full-frame-semi-rimless-sunglasses"/>
+    <title>XD PL 175 - Polarized Aluminum-Magnesium Alloy Full Frame Semi Rimless Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2038.jpg?v=1616615326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale full aluminum frame sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6550260056153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6540850331737</id>
+    <published>2021-03-05T16:53:16-08:00</published>
+    <updated>2021-03-05T16:53:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-048-polarized-sports-aluminum-sports-sunglasses-for-men"/>
+    <title>XD PL 048 - Polarized Aluminum-Magnesium Alloy Full Frame Sports Sunglasses for Men</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2030.jpg?v=1614991996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sports aluminum sunglasses for men with spring hinge</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6540850331737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6539631034457</id>
+    <published>2021-03-04T16:45:50-08:00</published>
+    <updated>2021-03-04T16:45:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-354-polarized-aluminum-sports-sunglasses"/>
+    <title>XD PL 354 - Polarized Aluminum-Magnesium Alloy Full Frame Sports Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2020.jpg?v=1614905151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale aluminun polarized sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6539631034457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6538601660505</id>
+    <published>2021-03-02T16:55:42-08:00</published>
+    <updated>2021-03-02T16:55:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-384-polarized-aluminum-rectangular-semi-rimless-sunglasses"/>
+    <title>XD PL 384 - Polarized Aluminum-Magnesium Alloy Full Frame Rectangular Semi Rimless Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/71dMtPu3sEL.jpg?v=1614732943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized aluminum sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6538601660505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6538600874073</id>
+    <published>2021-03-02T16:51:54-08:00</published>
+    <updated>2021-03-02T16:51:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-381-polarized-aluminum-rectangular-rimless-sunglasses"/>
+    <title>XD PL 381 - Polarized Aluminum-Magnesium Alloy Full Frame Rectangular Rimless Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1976.jpg?v=1614732715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized aluminum sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6538600874073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6538599628889</id>
+    <published>2021-03-02T16:45:28-08:00</published>
+    <updated>2021-03-02T16:45:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-309-polarized-aluminum-rectangular-semi-rimless-sports-sunglasses"/>
+    <title>XD PL 309 - Polarized Aluminum-Magnesium Alloy Full Frame Rectangular Semi Rimless Sports Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1988.jpg?v=1614732329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized aluminum sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6538599628889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6538535272537</id>
+    <published>2021-03-02T13:08:25-08:00</published>
+    <updated>2021-03-02T13:08:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/xd-pl-52-3-polarized-metal-aluminum-sunglasses"/>
+    <title>XD PL 52-3 - Polarized Aluminum-Magnesium Alloy Full Frame Rectangular Rimless Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1984.jpg?v=1614719305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized aluminum sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6538535272537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4764630777945</id>
+    <published>2020-12-17T12:04:40-08:00</published>
+    <updated>2020-12-17T12:04:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pl-3953-polarized-classic-oval-shaped-sunglasses"/>
+    <title>PL 3953 - Polarized Classic Oval Shaped Sunglasses with 1.1mm Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0807.jpg?v=1608235482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized oval shaped sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.1mm</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4764630777945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>PL3953</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1321832906841</id>
+    <published>2018-07-20T12:24:52-07:00</published>
+    <updated>2018-07-20T12:24:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-tall-big-xl-oversized-rectangular-polarized-metal-sunglasses-pl-3940"/>
+    <title>PL 3940 - Men&apos;s Big and Tall XL Oversized Rectangular Polarized Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_46841.JPG?v=1579603266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Express yourself with our bulk BeOne XL polarized sunglasses. These large polarized sunglasses are designed for larger men to bring out their masculinity by maximizing comfort, sizes for lens width of 62 millimeters, lens height of 43 millimeters, bridge width of 14 millimeters, and temples measure up to 125 millimeters. Give the big guy polarized sunglasses that he will be proud to wear. Our BeOne XL wholesale polarized sunglasses are also Asian fit. Not only these sunglasses are comfortable to wear, it provides the highest level of protection from UVA and UVB rays from the sun. These sunglasses are the perfect choice for outdoor sports and activities such as driving, hiking,traveling, fishing, shopping, water sports, skateboarding, and especially the beach in the summer. With these polarized sunglasses, you can get reduced reflected light and a clearer color vision. With different light conditions, glares can be an issue especially for drivers, but with these wholesale polarized sunglasses  it can help reduce the glares. These sunglasses provides 100% UV protection from the sun's harmful UV rays. Your eyes work hard every day and these sunglasses can help reduce the strain. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1321832906841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SKU03018</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1321827205209</id>
+    <published>2018-07-20T12:19:11-07:00</published>
+    <updated>2018-07-20T12:19:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-xl-oversized-rectangular-polarized-metal-sunglasses-pl-3939"/>
+    <title>PL 3939 - Men&apos;s XL Oversized Rectangular Polarized Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_46401.JPG?v=1579603265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Express yourself with our BeOne XL wholesale polarized sunglasses. These large bulk polarized sunglasses are designed for larger men to bring out their masculinity by maximizing comfort, sizes for lens width of 65 millimeters, lens height of 44 millimeters, bridge width of 14 millimeters, and temples measure up to 129 millimeters. Give the big guy polarized sunglasses that he will be proud to wear. Our BeOne XL polarized sunglasses are also Asian fit. Not only these sunglasses are comfortable to wear, it provides the highest level of protection from UVA and UVB rays from the sun. These sunglasses are the perfect choice for outdoor sports and activities such as driving, hiking,traveling, fishing, shopping, water sports, skateboarding, and especially the beach in the summer. With these polarized sunglasses, you can get reduced reflected light and a clearer color vision. With different light conditions, glares can be an issue especially for drivers, but with these polarized sunglasses it can help reduce the glares. These sunglasses provides 100% UV protection from the sun's harmful UV rays. Your eyes work hard every day and these sunglasses can help reduce the strain. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1321827205209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SKU03017</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/798869848153</id>
+    <published>2018-07-03T10:35:04-07:00</published>
+    <updated>2018-07-03T10:35:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-oversized-hexagon-metal-trim-pl-8784"/>
+    <title>PL 8784 - Oversize Hexagon Polarized Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_3641.JPG?v=1579603295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hexagon</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/798869848153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>SKU02996</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8750479244</id>
+    <published>2016-10-14T13:51:00-07:00</published>
+    <updated>2016-10-14T13:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-oval-shaped-color-mirror-lens-pl-9090-rvc"/>
+    <title>PL 9090 RVC - Metal Oval Shaped Polarized Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/pl_9090_rv_blue.jpg?v=1579603297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk polarized oval shaped sunglasses with color mirror lens</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8750479244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>SKU01678</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731298252</id>
+    <published>2016-10-11T10:19:00-07:00</published>
+    <updated>2016-10-11T10:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bulk-mens-polarized-sunglasses-wholesale-pl-3927"/>
+    <title>PL 3927 - Polarized Men Rectangular Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL-3927_03.jpg?v=1612461572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731298252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>SKU01561</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731194060</id>
+    <published>2016-10-11T10:03:00-07:00</published>
+    <updated>2016-10-11T10:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-rimless-sport-men-pl-3625-nv"/>
+    <title>PL 3625 NV - Polarized Men Rimless Sport with Night Vision Lens Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3625_NV_-_3.jpg?v=1579603233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>night vision</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731194060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>SKU01520</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731051340</id>
+    <published>2016-10-11T09:41:00-07:00</published>
+    <updated>2016-10-11T09:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-aluminum-rectangular-sports-rimless-color-mirror-lens-pl-989-rvc"/>
+    <title>PL 989 RVC - Aluminum Rectangular Half Rimmed Sports Rimless Polarized Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_989_RV_-_4.jpg?v=1579603318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731051340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>SKU01738</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731042444</id>
+    <published>2016-10-11T09:39:00-07:00</published>
+    <updated>2016-10-11T09:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-aluminum-rectangular-sports-rimless-color-mirror-lens-pl-988-rvc"/>
+    <title>PL 988 RVC - Aluminum Rectangular Half Rimmed Sports Rimless Polarized Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_988_RV_-_5.jpg?v=1579603317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731042444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>SKU01736</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731031372</id>
+    <published>2016-10-11T09:38:00-07:00</published>
+    <updated>2016-10-11T09:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-aluminum-rectangular-sports-rimless-color-mirror-lens-pl-987-rvc"/>
+    <title>PL 987 RVC - Aluminum Rectangular Half Rimmed Sports Rimless Polarized Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_987_RV_-_4.jpg?v=1579603316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aluminum</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731031372</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>SKU01734</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-sunglasses-pink-color-mirror-lens.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2018-06-15T09:39:56-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/132625989657</id>
+    <published>2018-06-15T09:39:56-07:00</published>
+    <updated>2018-06-15T09:39:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-aviator-rimless-mirror-fc-6388-pink-rvc"/>
+    <title>FC 6388 Pink RVC - Pink Mirror Rimless Aviator Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6388_Pink_-_1.jpg?v=1579604415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/132625989657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>SKU02946</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

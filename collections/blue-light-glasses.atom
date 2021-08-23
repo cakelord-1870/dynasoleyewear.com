@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/blue-light-glasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-07-31T13:32:57-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674964414553</id>
+    <published>2021-07-31T13:32:57-07:00</published>
+    <updated>2021-07-31T13:32:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1074-bl-blue-light-blocking-reading-glasses"/>
+    <title>RS 1074 BL - Blue Light Blocking Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2605.jpg?v=1627763602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale blue light blocking reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674964414553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RS1074BL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674962710617</id>
+    <published>2021-07-31T13:32:11-07:00</published>
+    <updated>2021-07-31T13:32:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1073-bl-blue-light-blocking-reading-glasses"/>
+    <title>RS 1073 BL - Blue Light Blocking Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2608.jpg?v=1627763532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale blue light blocking reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674962710617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RS1073BL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775163658329</id>
+    <published>2021-01-12T16:47:15-08:00</published>
+    <updated>2021-01-12T16:47:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bl-1550-rx-able-blue-light-blocking-glasses"/>
+    <title>BL 1550 - Rx-able Blue Light Blocking Glasses</title>
+    <s:type>Blue Light Glasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PZ1550-C1.jpg?v=1610498838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Blue Light Glasses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Rx-able blue light blocker glasses with spring hinge. Using a blue light blocking glasses while in front of a screen like a phone, monitors, etc, you will have better sleep, minimize digital headaches, and reduce eye fatigue.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775163658329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775160709209</id>
+    <published>2021-01-12T16:43:21-08:00</published>
+    <updated>2021-01-12T16:43:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bl-1504-rx-able-blue-light-blocking-glasses-with-spring-hinge"/>
+    <title>BL 1504 - Rx-able Blue Light Blocking Glasses with Spring Hinge</title>
+    <s:type>Blue Light Glasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PZ1504-C3.jpg?v=1610498603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Blue Light Glasses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Rx-able blue light blocker glasses with spring hinge. Using a blue light blocking glasses while in front of a screen like a phone, monitors, etc, you will have better sleep, minimize digital headaches, and reduce eye fatigue.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775160709209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775157301337</id>
+    <published>2021-01-12T16:38:21-08:00</published>
+    <updated>2021-01-12T16:38:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bl-8043-tr90-rx-able-blue-light-glasses"/>
+    <title>BL 8043 - TR90 Rx-able Blue Light Glasses</title>
+    <s:type>Blue Light Glasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8043C3.jpg?v=1610498337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Blue Light Glasses<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale blue light glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775157301337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775141376089</id>
+    <published>2021-01-12T16:00:42-08:00</published>
+    <updated>2021-01-12T16:00:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bl-8834-tr90-rx-able-blue-light-blocking-glasses"/>
+    <title>BL 8834 - TR90 Rx-able Blue Light Blocking Glasses</title>
+    <s:type>Blue Light Glasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8834C1.jpg?v=1610496089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Blue Light Glasses<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Blue light blocking glasses with Rx-able frame. With these blue light blocker, you will have better sleep, minimize digital headaches, and less eye fatigue.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775141376089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775140098137</id>
+    <published>2021-01-12T15:55:41-08:00</published>
+    <updated>2021-01-12T15:55:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bl-8833-tr90-rx-able-blue-light-blocking-glasses"/>
+    <title>BL 8833 - TR90 Rx-able Blue Light Blocking Glasses</title>
+    <s:type>Blue Light Glasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9453_937d58f5-b877-45b0-9ab1-f051ae13473e.jpg?v=1610496343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Blue Light Glasses<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TR90 Rx-able blue light blocker glasses. Using a blue light blocking glasses while in front of a screen like a phone, monitors, etc, you will have better sleep, minimize digital headaches, and reduce eye fatigue.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775140098137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775139311705</id>
+    <published>2021-01-12T15:52:01-08:00</published>
+    <updated>2021-01-12T15:52:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bl-8832-tr90-rx-able-blue-light-blocking-glasses"/>
+    <title>BL 8832 - TR90 Rx-able Blue Light Blocking Glasses</title>
+    <s:type>Blue Light Glasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8832C2.jpg?v=1610495635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Blue Light Glasses<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blue light blocking glasses with Rx-able frame. With these blue light blocker, you will have better sleep, minimize digital headaches, and less eye fatigue.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775139311705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775138000985</id>
+    <published>2021-01-12T15:46:29-08:00</published>
+    <updated>2021-01-12T15:46:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bl-1389-rx-able-blue-light-blocking-glasses-with-spring-hinge"/>
+    <title>BL 1389 - Rx-able Blue Light Blocking Glasses with Spring Hinge</title>
+    <s:type>Blue Light Glasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9454_cd5d611a-4150-4caf-82f4-efd00475d6eb.jpg?v=1610495454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Blue Light Glasses<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Rx-able blue light blocker glasses with spring hinge. Using a blue light blocking glasses while in front of a screen like a phone, monitors, etc, you will have better sleep, minimize digital headaches, and reduce eye fatigue.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775138000985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

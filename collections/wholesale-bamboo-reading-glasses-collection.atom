@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-bamboo-reading-glasses-collection.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2020-07-02T14:31:06-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4671488491609</id>
+    <published>2020-07-02T14:31:06-07:00</published>
+    <updated>2020-07-02T14:31:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-classic-texture-frame-sunglasses-7009-bamboo"/>
+    <title>7009 Bamboo - Classic Texture Frame with Bamboo Temple Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9649.jpg?v=1593633691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale bamboo sunglasses</p>
+<p>Measurements: 54-19-135 B:40</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4671488491609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>7009Bamboo</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4415825510489</id>
+    <published>2020-01-07T16:35:06-08:00</published>
+    <updated>2020-01-07T16:35:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-bamboo-sports-rectangular-sunglasses-7993"/>
+    <title>7993 - Bamboo Sports Rectangular Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6907.jpg?v=1579603779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale bamboo sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4415825510489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>7993</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2141608083545</id>
+    <published>2019-07-26T12:53:37-07:00</published>
+    <updated>2019-07-26T12:53:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-bamboo-polarized-retro-flat-top-sunglasses-pl-2020"/>
+    <title>PL 2020 - Bamboo Polarized Retro Flat Top Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_2020_-_2.jpg?v=1579603220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale bamboo sunglasses</p>
+<p>Measurements: 64-9-130 B:50</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2141608083545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>PL 2020</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/798252204121</id>
+    <published>2018-07-02T09:29:06-07:00</published>
+    <updated>2018-07-02T09:29:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-bamboo-sunglasses-color-mirror-7971-rvc"/>
+    <title>7971 RVC - Wholesale Bamboo Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/MG_9356.jpg?v=1564484521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/798252204121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>SKU02987</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/11007662156</id>
+    <published>2017-06-13T11:48:34-07:00</published>
+    <updated>2017-06-13T11:48:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-bamboo-wood-wooden-horn-rimmed-color-mirror-pl-2025-rvc"/>
+    <title>PL 2025 - Polarized Bamboo Square Horn Rimmed Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_2025_RV_-_5.jpg?v=1579603222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            67.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/11007662156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">67.00</s:price>
+      <s:sku>SKU02706</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731086668</id>
+    <published>2016-10-11T09:46:00-07:00</published>
+    <updated>2016-10-11T09:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-bamboo-wooden-wood-classic-horn-rimmed-pl-2012"/>
+    <title>PL 2012 - Polarized Bamboo Classic Horn Rimmed Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_2012_-_3.jpg?v=1579603207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731086668</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SKU01495</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8603008396</id>
+    <published>2016-09-19T13:45:00-07:00</published>
+    <updated>2016-09-19T13:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-bamboo-temple-7110-bamboo"/>
+    <title>7110 Bamboo - Classic Horn Rimmed Bamboo Temple Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Bamboo_Copy.jpg?v=1555410446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8603008396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>SKU02363</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6018836614</id>
+    <published>2016-08-25T11:16:00-07:00</published>
+    <updated>2016-08-25T11:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-bamboo-polarized-sunglasses-rectangular-rigid-frame-flat-top-pl-7875"/>
+    <title>PL 7875 - Rectangular Rigid Frame Flat Top Bamboo Polarized Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL7875_-_5.jpg?v=1579603328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6018836614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>SKU01648</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

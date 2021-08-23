@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-sunglasses-usa-flag.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2018-07-25T08:53:58-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1340786802777</id>
+    <published>2018-07-25T08:53:58-07:00</published>
+    <updated>2018-07-25T08:53:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-kids-sunglasses-classic-horn-rimmed-usa-flag-4567-flag"/>
+    <title>4567 Flag - Kids Classic Horn Rimmed USA Flag Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8582.JPG?v=1555410398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Kids Sunglasses Wholesale</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1340786802777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>4567 Flag</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/132631330841</id>
+    <published>2017-12-09T12:32:18-08:00</published>
+    <updated>2017-12-09T12:32:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/usa-flag-microfiber-pouch"/>
+    <title>USA FLAG Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Pouch_-_USA_Flag.jpg?v=1579602572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">USA FLAG Microfiber Pouch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/132631330841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SKU03005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/15978332185</id>
+    <published>2017-07-31T15:42:22-07:00</published>
+    <updated>2017-07-31T15:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-horn-rimmed-usa-flag-7583-flag"/>
+    <title>7583 Flag - Retro Horn Rimmed with USA Flag Frame Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7583_Flag_-_3.jpg?v=1555411071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/15978332185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>SKU00542</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/15978299417</id>
+    <published>2017-07-31T15:42:20-07:00</published>
+    <updated>2017-07-31T15:42:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-horn-rimmed-usa-flag-7581-flag"/>
+    <title>7581 Flag - Retro Horn Rimmed Sunglasses with USA Flag</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7581_Flag_-_3.jpg?v=1555411068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>club</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/15978299417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU00538</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/11165134732</id>
+    <published>2017-06-30T12:33:08-07:00</published>
+    <updated>2017-06-30T12:33:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-clear-usa-flag-clear-lens-plastic-7110-flag-clear"/>
+    <title>7110 Flag Clear - Classic Horn Rimmed Clear USA Flag Clear Lens Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Flag_Clear_-_3.jpg?v=1555410453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/11165134732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>SKU02722</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8777793484</id>
+    <published>2016-10-20T13:51:00-07:00</published>
+    <updated>2016-10-20T13:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-clear-usa-flag-frame-plastic-7110-flag"/>
+    <title>7110 Flag - Classic Horn Rimmed Clear USA Flag Frame Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Flag_Copy.jpg?v=1555410452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8777793484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>SKU02028</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6682140230</id>
+    <published>2016-06-08T12:22:00-07:00</published>
+    <updated>2016-06-08T12:22:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-horn-rimmed-half-frame-usa-flag-8063"/>
+    <title>8063 - Horn Rimmed Half Frame USA Flag Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8063_-_3.jpg?v=1579604601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6682140230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>SKU00856</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

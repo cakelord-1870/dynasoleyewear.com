@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/on-sale-18.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2017-09-22T16:07:53-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/77069254681</id>
+    <published>2017-09-22T16:07:53-07:00</published>
+    <updated>2017-09-22T16:07:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-cat-eye-sunglasses-womens-flat-lens-2679"/>
+    <title>2679 - Flat Lens Cat Eye Sunglasses Wholesale with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/2679_-_3.jpg?v=1555410393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/77069254681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02807</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/11385907660</id>
+    <published>2017-07-19T14:22:15-07:00</published>
+    <updated>2017-07-19T14:22:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-slim-metal-cat-eye-sunglasses-brow-bar-2652-color"/>
+    <title>2652 Color - Slim Metal Cat Eye Sunglasses with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/2652_COLOR_-_3.jpg?v=1555410379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/11385907660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02723</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9696403276</id>
+    <published>2017-02-15T11:20:00-08:00</published>
+    <updated>2017-02-15T11:20:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-butterfly-sunglasses-metal-snake-temple-1901"/>
+    <title>1901 - Butterfly Sunglasses with Metal Snake Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1901-3.jpg?v=1555410338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>snake</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9696403276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02564</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892838796</id>
+    <published>2016-11-11T10:21:13-08:00</published>
+    <updated>2016-11-11T10:21:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-horn-rimmed-cat-eye-sunglasses-round-color-mirror-flat-lens-7918-rvc"/>
+    <title>7918 RVC - Horn Rimmed Cat Eye Half Frame Sunglasses with Round Color Mirror Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1349.jpg?v=1608334213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892838796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU00805</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892829452</id>
+    <published>2016-11-11T10:19:41-08:00</published>
+    <updated>2016-11-11T10:19:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-plastic-half-rimmed-cat-eye-8520"/>
+    <title>8520 - Women&apos;s Plastic Half Rimmed Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8520.jpg?v=1579604650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892829452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU00987</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892821452</id>
+    <published>2016-11-11T10:18:32-08:00</published>
+    <updated>2016-11-11T10:18:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-round-horn-rimmed-cat-eye-7914"/>
+    <title>7914 - Women&apos;s Round Horn Rimmed Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1343.jpg?v=1608339315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892821452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU00801</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892820812</id>
+    <published>2016-11-11T10:18:00-08:00</published>
+    <updated>2016-11-11T10:18:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-womens-square-cat-eye-sunglasses-metal-brow-bar-7907"/>
+    <title>7907 - Women&apos;s Square Cat Eye Sunglasses with Metal Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7907.jpg?v=1555411186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892820812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU00790</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892819340</id>
+    <published>2016-11-11T10:18:00-08:00</published>
+    <updated>2016-11-11T10:18:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-round-sunglasses-horn-rimmed-metal-brow-bar-7894"/>
+    <title>7894 - Round Horn Rimmed Metal Brow Bar Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7894.jpg?v=1555411181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892819340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU00777</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8869780108</id>
+    <published>2016-11-08T13:37:00-08:00</published>
+    <updated>2016-11-08T13:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-bulk-round-plastic-metal-temple-7696"/>
+    <title>7696 - Round Plastic Sunglasses with Metal Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7696_-_4.jpg?v=1555411110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8869780108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU00622</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8807700236</id>
+    <published>2016-10-26T11:46:00-07:00</published>
+    <updated>2016-10-26T11:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-bulk-metal-sunglasses-1814"/>
+    <title>1814 - Bulk Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1814_2.jpg?v=1555410295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8807700236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU00248</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768332364</id>
+    <published>2016-10-18T12:29:00-07:00</published>
+    <updated>2016-10-18T12:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-oval-shaped-plastic-border-8582"/>
+    <title>8582 - Retro Oval Shaped Sunglasses with Plastic Border</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8582_-_4.jpg?v=1579604690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768332364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02420</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768326348</id>
+    <published>2016-10-18T12:25:00-07:00</published>
+    <updated>2016-10-18T12:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-rimless-cat-eye-color-mirror-lens-8579"/>
+    <title>8579 - Rimless Cat Eye Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8579_-_8.jpg?v=1579604686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768326348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02419</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768299724</id>
+    <published>2016-10-18T12:12:00-07:00</published>
+    <updated>2016-10-18T12:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-round-horn-rimmed-sunglasses-flat-lens-1886"/>
+    <title>1886 - Round Horn Rimmed Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1886_-_5.jpg?v=1555410328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768299724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02414</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768296204</id>
+    <published>2016-10-18T12:10:00-07:00</published>
+    <updated>2016-10-18T12:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-square-horn-rimmed-sunglasses-flat-lens-1885"/>
+    <title>1885 - Square Horn Rimmed Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1885_-_3.jpg?v=1555410327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768296204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02413</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768288780</id>
+    <published>2016-10-18T12:05:00-07:00</published>
+    <updated>2016-10-18T12:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-round-flat-lens-with-brow-bar-metal-1884"/>
+    <title>1884 - Retro Round Flat Lens with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1884_-_3.jpg?v=1555410326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768288780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02412</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8681454604</id>
+    <published>2016-09-30T09:45:00-07:00</published>
+    <updated>2016-09-30T09:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-round-metal-flower-design-8586"/>
+    <title>8586 - Women&apos;s Round Metal Sunglasses with Flower Design</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8586_-_3.jpg?v=1579604694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8681454604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02397</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8681400972</id>
+    <published>2016-09-30T09:33:00-07:00</published>
+    <updated>2016-09-30T09:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-horn-rimmed-round-flat-lens-sunglasses-1892"/>
+    <title>1892 - Horn Rimmed Round Flat Lens Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1892_-_3.jpg?v=1555410333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>club</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8681400972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02392</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8676589772</id>
+    <published>2016-09-29T13:52:00-07:00</published>
+    <updated>2016-09-29T13:52:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-round-horn-rimmed-metal-sunglasses-flat-lens-1887"/>
+    <title>1887 - Horn Rimmed Round Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1887_-_3.jpg?v=1555410329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8676589772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02390</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8676555148</id>
+    <published>2016-09-29T13:46:00-07:00</published>
+    <updated>2016-09-29T13:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-classic-oval-shaped-sunglasses-1883"/>
+    <title>1883 - Wholesale Classic Oval Shaped Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1883_-_3.jpg?v=1555410326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8676555148</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02389</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8676535436</id>
+    <published>2016-09-29T13:44:00-07:00</published>
+    <updated>2016-09-29T13:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-oval-cat-eye-sunglasses-with-slim-metal-temple-1882"/>
+    <title>1882 - Oval Cat Eye Sunglasses with Slim Metal Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1882_-_3.jpg?v=1555410325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8676535436</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02388</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8676519052</id>
+    <published>2016-09-29T13:41:00-07:00</published>
+    <updated>2016-09-29T13:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-round-horn-rimmed-slim-metal-sunglasses-with-flat-lens-1879"/>
+    <title>1879 - Round Horn Rimmed Slim Metal Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1879_-_8.jpg?v=1555410322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8676519052</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02387</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8676491916</id>
+    <published>2016-09-29T13:39:00-07:00</published>
+    <updated>2016-09-29T13:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-round-cat-eye-color-mirror-flat-lens-sunglasses-1875"/>
+    <title>1875 - Round Color Mirror Flat Lens Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1875_-_3.jpg?v=1555410320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8676491916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02386</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8610063884</id>
+    <published>2016-09-20T10:38:00-07:00</published>
+    <updated>2016-09-20T10:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-round-cat-eye-plastic-slim-temple"/>
+    <title>8567 - Women&apos;s Round Cat Eye Plastic Sunglasses with Slim Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8580-1.jpg?v=1579604680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8610063884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02367</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8603033740</id>
+    <published>2016-09-19T13:50:00-07:00</published>
+    <updated>2016-09-19T13:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-modern-horn-rimmed-plastic-no-bridge-8559"/>
+    <title>8559 - Modern Horn Rimmed Plastic Sunglasses with No Bridge</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8559-1.jpg?v=1579604671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8603033740</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02365</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8602578764</id>
+    <published>2016-09-19T12:29:00-07:00</published>
+    <updated>2016-09-19T12:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-square-sunglasses-with-brow-bar-and-no-bridge-1881"/>
+    <title>1881 - Square Horn Rimmed Sunglasses with Brow Bar and no Bridge</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1881_-_1.jpg?v=1555410324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8602578764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02350</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

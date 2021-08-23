@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-fashion-sunglasses-displays.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2016-10-25T09:37:00-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803788300</id>
+    <published>2016-10-25T09:37:00-07:00</published>
+    <updated>2016-10-25T09:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/display-545"/>
+    <title>Display 545</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_545.jpg?v=1579604880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 6 pairs of sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803788300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>SKU01049</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803779532</id>
+    <published>2016-10-25T09:25:00-07:00</published>
+    <updated>2016-10-25T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/red-display-540-small"/>
+    <title>Display 540 Small - Red</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_520S_Red.jpg?v=1579604879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 35 pairs<br>
+<ul></ul>
+<p>Dimensions in cuft:</p>
+<p><strong>Length</strong>: 50</p>
+<p><strong>Width</strong>: 43</p>
+<p><strong>Height</strong>: 11</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803779532</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>SKU02107</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803777804</id>
+    <published>2016-10-25T09:25:00-07:00</published>
+    <updated>2016-10-25T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/blue-display-540-small"/>
+    <title>Display 540 Small - Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_520S_Blue.jpg?v=1579604878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 35 pairs<br>
+<ul></ul>
+<p>Dimensions in cuft:</p>
+<p><strong>Length</strong>: 50</p>
+<p><strong>Width</strong>: 43</p>
+<p><strong>Height</strong>: 11</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803777804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>SKU02105</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803774220</id>
+    <published>2016-10-25T09:25:00-07:00</published>
+    <updated>2016-10-25T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/black-display-540-small"/>
+    <title>Display 540 Small - Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_520S_Black.jpg?v=1579604878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 35 pairs<br>
+<ul></ul>
+<p>Dimensions in cuft:</p>
+<p><strong>Length</strong>: 50</p>
+<p><strong>Width</strong>: 43</p>
+<p><strong>Height</strong>: 11</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803774220</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>SKU02106</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8800042316</id>
+    <published>2016-10-24T13:29:00-07:00</published>
+    <updated>2016-10-24T13:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/display-546"/>
+    <title>Display 546</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_546.jpg?v=1579604880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Acrylic display</li>
+<li>Holds 24 pairs</li>
+<li>12 pairs each column</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8800042316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>SKU01050</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

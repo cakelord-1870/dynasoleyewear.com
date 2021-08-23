@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-cat-eye-sunglasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-07-15T14:22:47-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6591083380825</id>
+    <published>2021-07-15T14:22:47-07:00</published>
+    <updated>2021-07-15T14:22:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/5180-plastic-rectangular-cat-eye-sunglasses"/>
+    <title>5180 - Plastic Rectangular Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2500.jpg?v=1626384160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale rectangular cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6591083380825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5180</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6591079841881</id>
+    <published>2021-07-15T14:21:24-07:00</published>
+    <updated>2021-07-15T14:21:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/5169-cat-eye-one-piece-lens-sunglasses"/>
+    <title>5169 - Cat Eye One Piece Lens Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2498.jpg?v=1626384075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale cat eye sunglasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6591079841881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>5169</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6591084298329</id>
+    <published>2021-07-15T14:20:37-07:00</published>
+    <updated>2021-07-15T14:20:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/8906-one-piece-cat-eye-plastic-sunglasses"/>
+    <title>8906 - One Piece Cat Eye Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2494.jpg?v=1622927369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale plastic cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6591084298329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>8906</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6591081381977</id>
+    <published>2021-06-19T08:47:15-07:00</published>
+    <updated>2021-06-19T08:47:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/8010-plastic-square-box-cat-eye-sunglasses"/>
+    <title>8010 - Plastic Square Box Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2485.jpg?v=1622926652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale box cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6591081381977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>8010</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6588199272537</id>
+    <published>2021-05-29T15:11:12-07:00</published>
+    <updated>2021-05-29T15:11:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/7017-plastic-cat-eye-sunglasses-with-flat-lens"/>
+    <title>7017 - Plastic Cat Eye Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2478.jpg?v=1622326273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6588199272537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>7017</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6548308066393</id>
+    <published>2021-03-21T09:19:23-07:00</published>
+    <updated>2021-03-21T09:19:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6521-small-rectangular-cat-eye-sunglasses"/>
+    <title>FC 6521 - Small Rectangular Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1910.jpg?v=1616343564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale rectangular cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6548308066393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FC6521</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6546725732441</id>
+    <published>2021-03-21T09:16:11-07:00</published>
+    <updated>2021-03-21T09:16:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6520-plastic-round-cat-eye-wavy-temple-sunglasses"/>
+    <title>FC 6520 - Plastic Round Cat Eye Wavy Temple Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1904.jpg?v=1616024835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale round cat eye sunglasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6546725732441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>FC6520</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6546706989145</id>
+    <published>2021-03-19T16:54:08-07:00</published>
+    <updated>2021-03-19T16:54:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/fc-6518-fashion-plastic-cat-eye-sunglasses"/>
+    <title>FC 6518 - Fashion Plastic Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1621.jpg?v=1616020187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6546706989145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FC6518</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2159284551769</id>
+    <published>2019-08-29T10:12:46-07:00</published>
+    <updated>2019-08-29T10:12:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-box-cat-eye-sunglasses-8873"/>
+    <title>8873 - Plastic Box Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8873_-_2.jpg?v=1579604844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale cat eye sunglasses</p>
+<p>Measurements: 56-7-145 B:48</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2159284551769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>8873</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2143134679129</id>
+    <published>2019-08-16T12:23:01-07:00</published>
+    <updated>2019-08-16T12:23:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-cat-eye-sunglasses-flat-lens-8867"/>
+    <title>8867 - Plastic Cat Eye Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8867_-_2.jpg?v=1579604838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale cateye sunglasses for women</p>
+<p>Measurements: 50-21-143</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2143134679129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>8867</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2030235779161</id>
+    <published>2019-03-15T15:01:48-07:00</published>
+    <updated>2019-03-15T15:01:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pz-1340-plastic-round-cat-eye-sunglasses-with-clear-lens"/>
+    <title>PZ 1340 - Plastic Cat Eye Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Zanetti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PZ_1340_-_C1.jpg?v=1579603450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Zanetti<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale cat eye sunglasses with clear lens</p>
+<p>Measurements</p>
+<ul>
+<li>
+<strong>Lens Width</strong>: 53mm</li>
+<li>
+<strong>Bridge</strong>: 16mm</li>
+<li>
+<strong>Temple</strong>: 140mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2030235779161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU01857</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2030231945305</id>
+    <published>2019-03-15T14:53:53-07:00</published>
+    <updated>2019-03-15T14:53:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pz-1359-round-cat-eye-plastic-sunglasses-with-clear-lens"/>
+    <title>PZ 1359 - Cat Eye Plastic Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Zanetti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PZ_1359_-_C1.jpg?v=1579603455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Zanetti<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale clear lens sunglasses</p>
+<p>Measurements</p>
+<ul>
+<li>
+<strong>Lens Width</strong>: 54mm</li>
+<li>
+<strong>Bridge</strong>: 16mm</li>
+<li>
+<strong>Temple</strong>: 142mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2030231945305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU01876</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2030222278745</id>
+    <published>2019-03-15T14:38:45-07:00</published>
+    <updated>2019-03-15T14:38:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pz-1357-plastic-cat-eye-sunglasses-with-clear-lens"/>
+    <title>PZ 1357 - Plastic Cat Eye Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Zanetti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PZ_1357_BLACK_CLEAR_2.jpg?v=1579603454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Zanetti<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale cat eye sunglasses with clear lens</p>
+<p>Measurements</p>
+<ul>
+<li>
+<strong>Lens Width</strong>:<span> 53</span>mm</li>
+<li>
+<strong>Bridge</strong>: 16mm</li>
+<li>
+<strong>Temple</strong>: 140mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2030222278745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU01874</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2002469814361</id>
+    <published>2019-03-01T14:21:29-08:00</published>
+    <updated>2019-03-01T14:21:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-semi-rimless-round-lens-metal-cat-eye-sunglasses-fc-6458"/>
+    <title>FC 6458 - Semi Rimless Round Lens Metal Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6458_-_White_Light_Brown.jpg?v=1579603141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2002469814361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC 6458</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1986164916313</id>
+    <published>2019-02-07T15:45:53-08:00</published>
+    <updated>2019-02-07T15:45:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-round-cut-out-flat-lens-cat-eye-sunglasses-8822"/>
+    <title>8822 - Plastic Round Cut Out Flat Lens Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1249.JPG?v=1579604801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale round sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1986164916313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>8822</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464714526809</id>
+    <published>2018-08-28T11:04:19-07:00</published>
+    <updated>2018-08-28T11:04:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-rimless-womens-metal-cat-eye-with-flat-lens-fc-6448"/>
+    <title>FC 6448 - Rimless Women&apos;s Metal Cat Eye Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6448_-_3.jpg?v=1579603133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses with flat lens</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464714526809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FC 6448</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464711315545</id>
+    <published>2018-08-28T11:03:43-07:00</published>
+    <updated>2018-08-28T11:03:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-rimless-flower-detail-cat-eye-metal-fc-6447"/>
+    <title>FC 6447 - Rimless Flower Detail Cat Eye Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6447_-_1.jpg?v=1579603133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale cateye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464711315545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC 6447</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1462225961049</id>
+    <published>2018-08-28T10:42:21-07:00</published>
+    <updated>2018-08-28T10:42:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-horn-rimmed-womens-cat-eye-plastic-flat-lens-fc-6410"/>
+    <title>FC 6410 - Horn Rimmed Women&apos;s Cat Eye Plastic Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6410_-_2.jpg?v=1579604433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1462225961049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>FC 6410</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1420590841945</id>
+    <published>2018-08-16T10:26:31-07:00</published>
+    <updated>2018-08-16T10:26:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-horn-rimmed-cat-eye-plastic-fc-6437"/>
+    <title>FC 6437 - Women&apos;s Horn Rimmed Cat Eye Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6437_-_3.jpg?v=1579603124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1420590841945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FC 6437</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/182394454041</id>
+    <published>2018-07-12T11:03:52-07:00</published>
+    <updated>2018-07-12T11:03:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-womens-cat-eye-metal-accents-flat-lens-7968"/>
+    <title>7968 - Women&apos;s Cat Eye Metal Accents Sunglasses with Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7968_-_1.jpg?v=1562065610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/182394454041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>SKU02904</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/798882299993</id>
+    <published>2018-07-03T11:03:16-07:00</published>
+    <updated>2018-07-03T11:03:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/womens-oversize-cat-eye-sunglasses-8782"/>
+    <title>8782 - Women&apos;s Oversize Cat Eye Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_4024_8613e70c-fc2e-4755-a77a-4903e2eef248.JPG?v=1579604766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale plastic cat eye sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/798882299993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU02999</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/784047767641</id>
+    <published>2018-06-02T11:15:09-07:00</published>
+    <updated>2018-06-02T11:15:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/womens-cat-eye-sunglasses-8783"/>
+    <title>8783 - Women&apos;s Cat Eye Flat Lens Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7956.JPG?v=1579604767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/784047767641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU02973</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/94169038873</id>
+    <published>2017-10-20T15:43:01-07:00</published>
+    <updated>2017-10-20T15:43:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-cat-eye-women-classic-fc-6365"/>
+    <title>FC 6365 - Classic Cat Eye Women Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/51v72UN6cdL.jpg?v=1608663219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale fashion cat eye metal sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/94169038873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/77069254681</id>
+    <published>2017-09-22T16:07:53-07:00</published>
+    <updated>2017-09-22T16:07:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-cat-eye-sunglasses-womens-flat-lens-2679"/>
+    <title>2679 - Flat Lens Cat Eye Sunglasses Wholesale with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/2679_-_3.jpg?v=1555410393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/77069254681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU02807</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/77069221913</id>
+    <published>2017-09-22T16:07:52-07:00</published>
+    <updated>2017-09-22T16:07:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-rimless-slim-temple-cat-eye-color-mirror-lens-8700"/>
+    <title>8700 - Rimless Slim Temple Cat Eye Sunglasses with Color Mirror Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8700_-_3.jpg?v=1579604781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/77069221913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>SKU02806</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-oval-shaped-sunglasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-02-18T12:42:28-08:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4792794775641</id>
+    <published>2021-02-18T12:42:28-08:00</published>
+    <updated>2021-02-18T12:42:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/7617-retro-aviator-plastic-sunglasses"/>
+    <title>7617 - Retro Aviator Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1845.jpg?v=1613680949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale aviator sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4792794775641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>7617</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4791480877145</id>
+    <published>2021-02-17T14:11:59-08:00</published>
+    <updated>2021-02-17T14:11:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/5507-classic-metal-aviator-sunglasses"/>
+    <title>5507 - Classic Metal Aviator Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1828.jpg?v=1613599912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale aviator sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4791480877145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>5507MIXED</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4779836997721</id>
+    <published>2021-01-22T14:34:32-08:00</published>
+    <updated>2021-01-22T14:34:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/2316-gold-classic-gold-frame-oval-shaped-sunglasses"/>
+    <title>2316 Gold - Classic Gold Frame Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/2316Gold.jpg?v=1611354928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4779836997721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>2316GOLD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4764617506905</id>
+    <published>2020-12-17T11:15:16-08:00</published>
+    <updated>2020-12-17T11:15:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-thick-frame-oval-shaped-sunglasses-fc-6514"/>
+    <title>FC 6514 - Thick Frame Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0854_19834440-de6b-4ec1-96ec-9744ddba5b9c.jpg?v=1608314611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale oval-shaped sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4764617506905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6514</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4761450610777</id>
+    <published>2020-12-09T16:44:24-08:00</published>
+    <updated>2020-12-09T16:44:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/x-11083-metal-oval-shaped-sunglasses"/>
+    <title>X 11083 - Metal Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/X11083.jpg?v=1607561065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4761450610777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>X11083</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470721609817</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-chain-link-design-oval-shaped-sunglasses-fc-6511"/>
+    <title>FC 6511 - Chain Link Design Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9011.jpg?v=1611355583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale fashion oval shaped sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470721609817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6511</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470709485657</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-oval-shaped-sunglasses-flat-lens-tear-drop-pearl-fc-6507"/>
+    <title>FC 6507 - Oval Shaped Sunglasses with Flat Lens and Tear Drop Pearl</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8462.jpg?v=1585046262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale oval shaped sunglasses with flat lens</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470709485657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6507</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470683435097</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-metal-fashion-oval-shaped-sunglasses-fc-6502"/>
+    <title>FC 6502 - Metal Fashion Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7701_-_Copy.jpg?v=1582023410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale oval shaped sunglasses</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470683435097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6502</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4470681960537</id>
+    <published>2020-02-12T16:16:52-08:00</published>
+    <updated>2020-02-12T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-rimless-metal-oval-shaped-sunglasses-pearls-fc-6501"/>
+    <title>FC 6501 - Rimless Metal Oval Shaped Sunglasses with Pearls</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7691_c9995a9b-a7d8-4e5a-8aef-0daabe6e2f34.jpg?v=1596845792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 1.4em;">wholesale fashion oval shaped sunglasses</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4470681960537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FC6501</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/2131278397529</id>
+    <published>2019-07-12T15:12:38-07:00</published>
+    <updated>2019-07-12T15:12:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesae-rimless-flat-lens-metal-oval-shaped-sunglasses-8856"/>
+    <title>8856 - Rimless Flat Lens Metal Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8856_-_3.jpg?v=1579604829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">flat lens sunglasses wholesale</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/2131278397529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>8856</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1417117958233</id>
+    <published>2018-08-16T10:22:06-07:00</published>
+    <updated>2018-08-16T10:22:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-large-square-oval-shaped-brow-bar-metal-8798"/>
+    <title>8798 - Large Square Oval Shaped Sunglasses with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1264.jpg?v=1608063395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">square oval shaped sunglasses wholesale in bulk</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>square</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1417117958233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>8798</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/784047505497</id>
+    <published>2018-06-02T11:13:08-07:00</published>
+    <updated>2018-06-02T11:13:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/metal-round-sunglasses-8773"/>
+    <title>8773 - Metal Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7942.JPG?v=1579604761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/784047505497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>SKU02972</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/750787592281</id>
+    <published>2018-04-24T18:03:54-07:00</published>
+    <updated>2018-04-24T18:03:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-metal-cut-out-oval-shaped-sunglasses-8753"/>
+    <title>8753 - Metal Cut Out Oval Shaped Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8753.jpg?v=1579604748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/750787592281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>SKU02939</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/94171299865</id>
+    <published>2017-10-20T15:42:12-07:00</published>
+    <updated>2017-10-20T15:42:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-rimless-metal-oval-shaped-brow-bar-8720"/>
+    <title>8720 - Rimless Metal Oval Shaped Sunglasses with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8720_-_5.jpg?v=1579604800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/94171299865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>SKU02841</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/94171168793</id>
+    <published>2017-10-20T15:41:58-07:00</published>
+    <updated>2017-10-20T15:41:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-shooter-flat-shield-oval-shaped-8715"/>
+    <title>8715 - Shooter Flat Shield Oval Shaped Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8715_-_8.jpg?v=1579604797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk oval shaped sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:tag>shield lens</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/94171168793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>SKU02840</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/65762426905</id>
+    <published>2017-09-12T13:25:08-07:00</published>
+    <updated>2017-09-12T13:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bulk-sunglasses-wholesale-flat-clear-lens-round-oval-shaped-embellished-temple-8695-clear"/>
+    <title>8695 Clear - Flat Clear Lens Round Oval Shaped Sunglasses with Embellished Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8695_Clear_-_3.jpg?v=1579604778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>personality</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/65762426905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU02804</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/65762164761</id>
+    <published>2017-09-11T09:46:36-07:00</published>
+    <updated>2017-09-11T09:46:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-brow-bar-oval-shaped-fc-6380"/>
+    <title>FC 6380 - Brow Bar Oval Shaped Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6380_-_3.jpg?v=1579604405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/65762164761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>SKU02802</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/19851640857</id>
+    <published>2017-08-07T13:05:12-07:00</published>
+    <updated>2017-08-07T13:05:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-oval-shaped-sunglasses-classic-clear-lens-8686-clear"/>
+    <title>8686 Clear - Classic Oval Shaped Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8686_Clear_-_3.jpg?v=1579604771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>9 Gold, 2 Silver, 1 Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>personality</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/19851640857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>SKU02766</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/19851673625</id>
+    <published>2017-08-07T13:04:42-07:00</published>
+    <updated>2017-08-07T13:04:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-metal-hexagon-oval-shaped-brow-bar-8684"/>
+    <title>8684 - Metal Hexagon Oval Shaped Sunglasses with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8684_-_4.jpg?v=1579604768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/19851673625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU02765</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10395246348</id>
+    <published>2017-08-07T10:23:25-07:00</published>
+    <updated>2017-08-07T10:23:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bulk-oval-shaped-sunglasses-wholesale-clear-flat-lens-8649-clear"/>
+    <title>8649 Clear - Oval Shaped Sunglasses with Clear Flat Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8649_Clear_-_3.jpg?v=1579604742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>personality</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10395246348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>SKU02633</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10395249804</id>
+    <published>2017-06-01T11:30:53-07:00</published>
+    <updated>2017-06-01T11:30:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-oval-shaped-metal-2658"/>
+    <title>2658 - Classic Oval Shaped Sunglasses with Plastic Piece Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/2658_-_3.jpg?v=1555410384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10395249804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>SKU02642</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10097233868</id>
+    <published>2017-03-28T15:45:00-07:00</published>
+    <updated>2017-03-28T15:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-oval-shaped-metal-brow-bar-clear-lens-7810-clear"/>
+    <title>7809 Clear - Retro Oval Shaped Sunglasses with Metal Brow Bar and Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/MG_9903.jpg?v=1555411147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10097233868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU02593</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9117225100</id>
+    <published>2016-12-05T09:51:00-08:00</published>
+    <updated>2016-12-05T09:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-modern-cut-out-oval-shaped-brow-bar-8623"/>
+    <title>8623 - Modern Cut Out Oval Shaped Sunglasses with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8623-1.jpg?v=1579604717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9117225100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>SKU02485</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9117225036</id>
+    <published>2016-12-05T09:51:00-08:00</published>
+    <updated>2016-12-05T09:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-modern-cut-out-oval-shaped-color-mirror-lens-8622-rvc"/>
+    <title>8622 RVC - Modern Cut Out Oval Shaped Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8622RV-1.jpg?v=1579604716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9117225036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>SKU02484</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892831436</id>
+    <published>2016-11-11T10:20:01-08:00</published>
+    <updated>2016-11-11T10:20:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-metal-oval-shaped-mirror-lens-5145-chrome"/>
+    <title>5145 Chrome - Metal Oval Shaped Sunglasses with Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1675.JPG?v=1555410421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk oval shaped sunglasses with mirror lens</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chrome</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892831436</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>SKU00387</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

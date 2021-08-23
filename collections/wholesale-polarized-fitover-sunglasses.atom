@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-polarized-fitover-sunglasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2020-12-08T14:11:08-08:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4760857215065</id>
+    <published>2020-12-08T14:11:08-08:00</published>
+    <updated>2020-12-08T14:11:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pl-8886-polarized-sunglasses-wear-over-to-cover-over-prescription-glasses"/>
+    <title>PL 8886 - Polarized Sunglasses Wear Over to Cover Over Prescription Glasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1063.jpg?v=1607465427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized cover over sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fit over</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4760857215065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>PL8886</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4740816207961</id>
+    <published>2020-10-21T11:09:42-07:00</published>
+    <updated>2020-10-21T11:09:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-wear-over-to-cover-over-prescription-glasses-pl-8887"/>
+    <title>PL 8887 - Polarized Sunglasses Wear Over to Cover Over Prescription Glasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0616.jpg?v=1603304187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized cover over sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fit over</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4740816207961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>PL8887</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8732470732</id>
+    <published>2019-08-15T11:28:29-07:00</published>
+    <updated>2019-08-15T11:28:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-womens-cover-over-rhinestones-pl-7833-bx"/>
+    <title>PL 7833 BX - Women&apos;s Cover Over Polarized Sunglasses with Rhinestones</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_8314.jpg?v=1627590530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk cover over sunglasses with rhinestones</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>fit over</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8732470732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>PL7833BX</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/11385911116</id>
+    <published>2017-07-19T14:22:30-07:00</published>
+    <updated>2017-07-19T14:22:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-cover-over-polarized-sunglasses-pl-8675"/>
+    <title>PL 8675 - Plastic Cover Over Rectangular Polarized Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_8675_-_3.jpg?v=1579603291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">polarized cover over - wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fit over</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/11385911116</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01656</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/5450910790</id>
+    <published>2016-03-21T09:26:00-07:00</published>
+    <updated>2016-03-21T09:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-plastic-full-wrap-around-cover-over-pl-8485"/>
+    <title>PL 8485 - Plastic Full Wrap Around Cover Over Polarized Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_8485_-_2.jpg?v=1579603288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses - cover over sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fit over</s:tag>
+    <s:tag>full wrap</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/5450910790</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01658</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

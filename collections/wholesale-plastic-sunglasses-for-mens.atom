@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-plastic-sunglasses-for-mens.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-06-19T08:46:39-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6591081906265</id>
+    <published>2021-06-19T08:46:39-07:00</published>
+    <updated>2021-06-19T08:46:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pl-5172-plastic-sports-rectangular-wrap-around-sunglasses"/>
+    <title>PL 5172 - Plastic Sports Rectangular Wrap Around Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2504.jpg?v=1622926901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sports wrap around sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6591081906265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>PL5172</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6588225552473</id>
+    <published>2021-05-29T15:31:35-07:00</published>
+    <updated>2021-05-29T15:31:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/8904-rvc-plastic-faux-wood-sunglasses-with-color-mirror-lens"/>
+    <title>8904 RVC - Plastic Faux Wood Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2473.jpg?v=1622327496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses with faux wood frame and color mirrored lens</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6588225552473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>8904RVC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6588222898265</id>
+    <published>2021-05-29T15:29:48-07:00</published>
+    <updated>2021-05-29T15:29:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/8904-plastic-faux-wood-classic-sunglasses"/>
+    <title>8904 - Plastic Faux Wood Classic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2469.jpg?v=1622327389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses with faux wood frame</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6588222898265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>8904</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4760857215065</id>
+    <published>2020-12-08T14:11:08-08:00</published>
+    <updated>2020-12-08T14:11:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pl-8886-polarized-sunglasses-wear-over-to-cover-over-prescription-glasses"/>
+    <title>PL 8886 - Polarized Sunglasses Wear Over to Cover Over Prescription Glasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1063.jpg?v=1607465427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized cover over sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fit over</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4760857215065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>PL8886</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4740816207961</id>
+    <published>2020-10-21T11:09:42-07:00</published>
+    <updated>2020-10-21T11:09:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-wear-over-to-cover-over-prescription-glasses-pl-8887"/>
+    <title>PL 8887 - Polarized Sunglasses Wear Over to Cover Over Prescription Glasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0616.jpg?v=1603304187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized cover over sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fit over</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4740816207961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>PL8887</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4672208535641</id>
+    <published>2020-07-02T14:23:22-07:00</published>
+    <updated>2020-07-02T14:23:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/plastic-flat-top-one-piece-semi-rimless-oversize-sunglasses-7995"/>
+    <title>7995 - Plastic Flat Top One Piece Semi-Rimless Oversize Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9729.jpg?v=1593725046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">flat top wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4672208535641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>7995</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4439045472345</id>
+    <published>2020-01-27T10:55:56-08:00</published>
+    <updated>2020-01-27T10:55:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-retro-flat-top-flat-lens-sunglasses-7994"/>
+    <title>7994 - Retro Flat Top Flat Lens One Piece Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7236.jpg?v=1580208177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale flat top sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat lens</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rimless</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4439045472345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>7994</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464735826009</id>
+    <published>2018-08-28T11:08:31-07:00</published>
+    <updated>2018-08-28T11:08:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-square-flat-top-flat-lens-plastic-polarized-pl-3944"/>
+    <title>PL 3944 - Square Flat Top Flat Lens Plastic Polarized Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3944_-_5.jpg?v=1579603268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale-polarized-sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat lens</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464735826009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>PL 3944</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464730320985</id>
+    <published>2018-08-28T11:06:27-07:00</published>
+    <updated>2018-08-28T11:06:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-retro-aviator-flat-top-plastic-pl-3942"/>
+    <title>PL 3942 - Polarized Retro Aviator Flat Top Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3942_-_2.jpg?v=1579603267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464730320985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>PL 3942</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1462361653337</id>
+    <published>2018-08-28T10:48:25-07:00</published>
+    <updated>2018-08-28T10:48:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-round-horn-rimmed-no-bridge-brow-bar-fc-6419"/>
+    <title>FC 6419 - Round Horn Rimmed No Bridge Plastic Sunglasses with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>FROYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/FC_6419_-_2.jpg?v=1579604441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FROYA<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale plastic sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>french collection</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1462361653337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>FC 6419</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/798855430233</id>
+    <published>2018-07-03T09:56:39-07:00</published>
+    <updated>2018-07-03T09:56:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-polarized-sunglasses-classic-sports-plastic-clear-lens-pl-7619-clear"/>
+    <title>PL 7619 Clear RVC - Classic Sports Plastic Polarized Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_2510.jpg?v=1579603311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/798855430233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>SKU02992</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8700226700</id>
+    <published>2017-08-24T11:06:59-07:00</published>
+    <updated>2017-08-24T11:06:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-square-sports-super-dark-les-7633-black-sd"/>
+    <title>7633 Black SD - Classic Square Sports Sunglasses with Super Dark Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7633_-_3.jpg?v=1555411092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8700226700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>SKU00584</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158878412</id>
+    <published>2016-12-09T12:55:09-08:00</published>
+    <updated>2016-12-09T12:55:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-fashion-wrap-around-shield-plastic-ox-8719"/>
+    <title>OX 8719 - Retro Fashion Wrap Around Shield Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_8719_-_1.jpg?v=1579603205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>shield lens</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158878412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU01484</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158878284</id>
+    <published>2016-12-09T12:55:07-08:00</published>
+    <updated>2016-12-09T12:55:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-one-piece-wrap-around-plastic-ox-8718"/>
+    <title>OX 8718 - One Piece Wrap Around Shield Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_8718_-_1.jpg?v=1579603204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>shield</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158878284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU01483</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158876940</id>
+    <published>2016-12-09T12:54:54-08:00</published>
+    <updated>2016-12-09T12:54:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-one-piece-shield-wrap-around-plastic-ox-7401"/>
+    <title>OX 7401 - One Piece Shield Wrap Around Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_7401_-_6.jpg?v=1579603203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158876940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU01435</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892840396</id>
+    <published>2016-11-11T10:21:00-08:00</published>
+    <updated>2016-11-11T10:21:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-large-square-modern-sports-color-mirror-lens-8529-rvc"/>
+    <title>8529 RVC - Large Square Modern Sports Plastic Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8529-5.jpg?v=1579604654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892840396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU02168</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892821132</id>
+    <published>2016-11-11T10:18:00-08:00</published>
+    <updated>2016-11-11T10:18:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-half-frame-faux-wood-plastic-7911"/>
+    <title>7911 - Classic Horn Rimmed Half Frame Faux Wood Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7911_-_5.jpg?v=1555411188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wood print</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892821132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>SKU00795</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8892816908</id>
+    <published>2016-11-11T10:17:51-08:00</published>
+    <updated>2016-11-11T10:17:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-plastic-flat-top-metal-temple-7854"/>
+    <title>7854 - Fashion Flat Top Plastic Sunglasses with Metal Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7854_-_4.jpg?v=1555411165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8892816908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU00741</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8869349260</id>
+    <published>2016-11-08T12:42:00-08:00</published>
+    <updated>2016-11-08T12:42:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-soft-rubber-classic-square-sports-black-7633-black-sd-sft"/>
+    <title>7633 Black SD SFT - Soft Rubber Classic Square Sports Black Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7633_Black_SFT_-_3.jpg?v=1555411092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8869349260</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SKU00585</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8869248780</id>
+    <published>2016-11-08T12:19:00-08:00</published>
+    <updated>2016-11-08T12:19:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-soft-rubber-smoke-lens-7619-black-sft"/>
+    <title>7619 Black SFT - Classic Soft Rubber Sports Black Sunglasses with Smoke Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7619_Black_SFT.jpg?v=1555411085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8869248780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>SKU00573</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8819314892</id>
+    <published>2016-10-28T09:56:00-07:00</published>
+    <updated>2016-10-28T09:56:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-horn-rimmed-clear-lens-7583-n"/>
+    <title>7583 N - Retro Horn Rimmed Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7583_N_-_3.jpg?v=1555411072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>club</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8819314892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SKU00543</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8819310476</id>
+    <published>2016-10-28T09:55:00-07:00</published>
+    <updated>2016-10-28T09:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-retro-horn-rimmed-bulk-sunglasses-with-smoke-lens"/>
+    <title>7583 - Retro Horn Rimmed Bulk Sunglasses with Smoke Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7583_-_3.jpg?v=1555411070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8819310476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SKU00541</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8819305868</id>
+    <published>2016-10-28T09:54:00-07:00</published>
+    <updated>2016-10-28T09:54:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-horn-rimmed-clear-lens-7581-n"/>
+    <title>7581 N - Retro Horn Rimmed Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7581_N_-_3.jpg?v=1555411069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8819305868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU00539</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8777513548</id>
+    <published>2016-10-20T10:54:00-07:00</published>
+    <updated>2016-10-20T10:54:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-one-piece-wrap-around-white-plastic-6371-white"/>
+    <title>6371 White - Retro One Piece Wrap Around White Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/6371_White_-_1_3db1af3a-02f6-49d5-af90-1941beb705a8.jpg?v=1556619754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8777513548</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SKU00451</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768743564</id>
+    <published>2016-10-18T13:51:00-07:00</published>
+    <updated>2016-10-18T13:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-classic-sunglasses-half-frame-horn-rimmed-7768"/>
+    <title>7768 - Classic Horn Rimmed Half Frame Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7768_-_3.jpg?v=1555411132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>club</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768743564</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SKU00666</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

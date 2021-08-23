@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-fashion-sunglasses-horn-rimmed.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2018-07-03T09:56:39-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/798858772569</id>
+    <published>2018-07-03T09:56:39-07:00</published>
+    <updated>2018-07-03T09:56:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-transparent-sports-color-mirror-lens-7619-clear-rvc"/>
+    <title>7619 Clear RVC - Classic Transparent Sports Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_2516_d1dfe7e1-eac2-46d8-b745-86eb832c4339.jpg?v=1555411086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/798858772569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SKU02993</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/94168514585</id>
+    <published>2017-10-20T15:40:17-07:00</published>
+    <updated>2017-10-20T15:40:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-faux-wood-finish-color-mirror-lens-7855-spectrum"/>
+    <title>7855 Spectrum - Classic Horn Rimmed Faux Wood Finish with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7855_Spectrum_-_3.jpg?v=1555411166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/94168514585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>SKU02825</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/11165134732</id>
+    <published>2017-06-30T12:33:08-07:00</published>
+    <updated>2017-06-30T12:33:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-clear-usa-flag-clear-lens-plastic-7110-flag-clear"/>
+    <title>7110 Flag Clear - Classic Horn Rimmed Clear USA Flag Clear Lens Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Flag_Clear_-_3.jpg?v=1555410453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/11165134732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>SKU02722</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9263038860</id>
+    <published>2016-12-23T13:15:00-08:00</published>
+    <updated>2016-12-23T13:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-super-dark-lens-two-tone-plastic-7115-sd"/>
+    <title>7115 SD - Classic Horn Rimmed Super Dark Lens Two Tone Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7115_SD_Copy.jpg?v=1555411024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9263038860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>SKU02038</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8877138956</id>
+    <published>2016-11-09T13:14:00-08:00</published>
+    <updated>2016-11-09T13:14:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-thunderbolt-design-temple-7753"/>
+    <title>7753 - Classic Horn Rimmed Sunglasses with Thunderbolt Design Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7753.jpg?v=1555411125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8877138956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SKU00651</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8807352332</id>
+    <published>2016-10-26T10:06:00-07:00</published>
+    <updated>2016-10-26T10:06:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-novelty-ladies-night-8455"/>
+    <title>8455 - Classic Horn Rimmed Novelty &apos;Ladies Night&apos; Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/8455.jpg?v=1579604636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8807352332</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SKU02085</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8807299468</id>
+    <published>2016-10-26T09:57:00-07:00</published>
+    <updated>2016-10-26T09:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-tortoise-plastic-7710-tortoise"/>
+    <title>7710 Tortoise - Classic Horn Rimmed Tortoise Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7710_Tortoise.jpg?v=1555411117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8807299468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>SKU02072</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8807256396</id>
+    <published>2016-10-26T09:44:00-07:00</published>
+    <updated>2016-10-26T09:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-neon-orange-with-clear-lens-7710-neon-orange-clear"/>
+    <title>7710 Neon Orange Clear - Classic Neon Orange Horn Rimmed Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7710_Neon_Orange_Clear.jpg?v=1555411114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8807256396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SKU02068</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8804504204</id>
+    <published>2016-10-25T13:57:00-07:00</published>
+    <updated>2016-10-25T13:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-two-tone-decorative-temple-matte-plastic-7599-smk"/>
+    <title>7599 SMK - Classic Horn Rimmed Two Tone Decorative Temple Matte Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7599_SMK.jpg?v=1555411080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8804504204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SKU02062</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8804315852</id>
+    <published>2016-10-25T12:39:00-07:00</published>
+    <updated>2016-10-25T12:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-clear-lens-7433-n"/>
+    <title>7433 N - Classic Horn Rimmed Sunglasses with Clear Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7433_N.jpg?v=1555411050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8804315852</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SKU02051</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8804239180</id>
+    <published>2016-10-25T12:27:00-07:00</published>
+    <updated>2016-10-25T12:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-super-dark-lens-plastic-7111-sd"/>
+    <title>7111 SD - Classic Horn Rimmed Super Dark Lens Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7111_SD.jpg?v=1555411024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8804239180</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>SKU02036</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8804219916</id>
+    <published>2016-10-25T12:21:00-07:00</published>
+    <updated>2016-10-25T12:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-multi-color-plastic-7110-r"/>
+    <title>7110 R - Classic Horn Rimmed Multi Color Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_R_Copy.jpg?v=1555410461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8804219916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>SKU02033</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8804121420</id>
+    <published>2016-10-25T11:40:00-07:00</published>
+    <updated>2016-10-25T11:40:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-clear-lens-plastic-7110-n"/>
+    <title>7110 N - Classic Horn Rimmed Clear Lens Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Clear_8_2537c98b-f8e3-4a50-aec5-9031b9512871.jpg?v=1555410458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear lens</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>personality</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8804121420</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>SKU02014</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803875084</id>
+    <published>2016-10-25T10:26:00-07:00</published>
+    <updated>2016-10-25T10:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-black-matte-finish-plastic-7110-black-matte"/>
+    <title>7110 Black Matte - Classic Horn Rimmed Black Matte Finish Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Black_Matte.jpg?v=1555410447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803875084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>SKU02000</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803872140</id>
+    <published>2016-10-25T10:18:00-07:00</published>
+    <updated>2016-10-25T10:18:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-black-plastic-7110-black"/>
+    <title>7110 Black - Classic Horn Rimmed Black Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Black.jpg?v=1555410446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black Classic Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803872140</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>SKU01999</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8777793484</id>
+    <published>2016-10-20T13:51:00-07:00</published>
+    <updated>2016-10-20T13:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-clear-usa-flag-frame-plastic-7110-flag"/>
+    <title>7110 Flag - Classic Horn Rimmed Clear USA Flag Frame Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Flag_Copy.jpg?v=1555410452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8777793484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>SKU02028</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8681406476</id>
+    <published>2016-09-30T09:36:00-07:00</published>
+    <updated>2016-09-30T09:36:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesales-sunglasses-classic-horn-rimmed-faux-wood-color-mirror-lens-7952-rvc"/>
+    <title>7952 RVC - Classic Horn Rimmed Faux Wood Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7952_RV_Copy.jpg?v=1556622192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8681406476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>SKU02393</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8603008396</id>
+    <published>2016-09-19T13:45:00-07:00</published>
+    <updated>2016-09-19T13:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-bamboo-temple-7110-bamboo"/>
+    <title>7110 Bamboo - Classic Horn Rimmed Bamboo Temple Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>ECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_Bamboo_Copy.jpg?v=1555410446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ECO<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8603008396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>SKU02363</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8141251398</id>
+    <published>2016-08-19T10:36:00-07:00</published>
+    <updated>2016-08-19T10:36:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-horn-rimmed-color-mirror-lens-white-soft-rubber-finish-7110-white-spectrum"/>
+    <title>7110 White Spectrum - Classic Horn Rimmed Color Mirror White Soft Rubber Finish Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/7110_White_Spectrum.jpg?v=1555411022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>rv</s:tag>
+    <s:tag>wf</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8141251398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SKU02319</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

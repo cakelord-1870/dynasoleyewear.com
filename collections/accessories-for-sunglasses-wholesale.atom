@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/accessories-for-sunglasses-wholesale.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-07-31T13:38:59-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674975260761</id>
+    <published>2021-07-31T13:38:59-07:00</published>
+    <updated>2021-07-31T13:38:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/yellow-fashion-microfiber-pouch"/>
+    <title>Yellow Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionYellowMicrofiber.jpg?v=1627763946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">yellow microfiber pouches for wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674975260761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-YELLOW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674973294681</id>
+    <published>2021-07-31T13:37:57-07:00</published>
+    <updated>2021-07-31T13:37:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/light-blue-fashion-microfiber-pouch"/>
+    <title>Light Blue Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionLightBlueMicrofiber.jpg?v=1627763886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">light blue microfiber pouches for wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674973294681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-LBLUE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674970673241</id>
+    <published>2021-07-31T13:36:32-07:00</published>
+    <updated>2021-07-31T13:36:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/green-fashion-microfiber-pouch"/>
+    <title>Green Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionGreenMicrofiber.jpg?v=1627763841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">green microfiber pouches for wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674970673241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-GREEN</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1447921221721</id>
+    <published>2018-08-22T12:51:35-07:00</published>
+    <updated>2018-08-22T12:51:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-case-t603-regular"/>
+    <title>Sunglasses Case T603 Regular</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Case_T603_Regular.jpg?v=1579602570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale case for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>case</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1447921221721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.40</s:price>
+      <s:sku>Case T603 Regular</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/132631330841</id>
+    <published>2017-12-09T12:32:18-08:00</published>
+    <updated>2017-12-09T12:32:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/usa-flag-microfiber-pouch"/>
+    <title>USA FLAG Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Pouch_-_USA_Flag.jpg?v=1579602572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">USA FLAG Microfiber Pouch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flag</s:tag>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/132631330841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SKU03005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8849181260</id>
+    <published>2016-11-04T12:30:00-07:00</published>
+    <updated>2016-11-04T12:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/beone-your-priority-grey-pouch"/>
+    <title>BeOne Your Priority - Grey Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Pouch_BeOne_Your_Priority_-_Grey_A32.jpg?v=1579604855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk pouch for sunglasses - grey BeOne pouch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8849181260</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MPB-GREY</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8849173324</id>
+    <published>2016-11-04T12:27:00-07:00</published>
+    <updated>2016-11-04T12:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/beone-your-priority-black-pouch"/>
+    <title>BeOne Your Priority - Black Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Pouch_BeOne_Your_Pirority_-_Black_A33.jpg?v=1579604855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale black pouch for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8849173324</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MPB-BLACK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8849148684</id>
+    <published>2016-11-04T12:24:00-07:00</published>
+    <updated>2016-11-04T12:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/grey-nylon-pouch"/>
+    <title>Grey Nylon Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Pouch_A-13_Grey.jpg?v=1579603165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk grey nylon pouches for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8849148684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>SKU02459</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803788300</id>
+    <published>2016-10-25T09:37:00-07:00</published>
+    <updated>2016-10-25T09:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/display-545"/>
+    <title>Display 545</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_545.jpg?v=1579604880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 6 pairs of sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803788300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>SKU01049</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803779532</id>
+    <published>2016-10-25T09:25:00-07:00</published>
+    <updated>2016-10-25T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/red-display-540-small"/>
+    <title>Display 540 Small - Red</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_520S_Red.jpg?v=1579604879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 35 pairs<br>
+<ul></ul>
+<p>Dimensions in cuft:</p>
+<p><strong>Length</strong>: 50</p>
+<p><strong>Width</strong>: 43</p>
+<p><strong>Height</strong>: 11</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803779532</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>SKU02107</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803777804</id>
+    <published>2016-10-25T09:25:00-07:00</published>
+    <updated>2016-10-25T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/blue-display-540-small"/>
+    <title>Display 540 Small - Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_520S_Blue.jpg?v=1579604878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 35 pairs<br>
+<ul></ul>
+<p>Dimensions in cuft:</p>
+<p><strong>Length</strong>: 50</p>
+<p><strong>Width</strong>: 43</p>
+<p><strong>Height</strong>: 11</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803777804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>SKU02105</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8803774220</id>
+    <published>2016-10-25T09:25:00-07:00</published>
+    <updated>2016-10-25T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/black-display-540-small"/>
+    <title>Display 540 Small - Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_520S_Black.jpg?v=1579604878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holds 35 pairs<br>
+<ul></ul>
+<p>Dimensions in cuft:</p>
+<p><strong>Length</strong>: 50</p>
+<p><strong>Width</strong>: 43</p>
+<p><strong>Height</strong>: 11</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8803774220</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>SKU02106</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8800042316</id>
+    <published>2016-10-24T13:29:00-07:00</published>
+    <updated>2016-10-24T13:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/display-546"/>
+    <title>Display 546</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Display_546.jpg?v=1579604880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Acrylic display</li>
+<li>Holds 24 pairs</li>
+<li>12 pairs each column</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>displays</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8800042316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>SKU01050</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799884876</id>
+    <published>2016-10-24T13:19:00-07:00</published>
+    <updated>2016-10-24T13:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/screw-driver"/>
+    <title>Screw Driver</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Tool_Kit.jpg?v=1579602567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            0.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per one</s:tag>
+    <s:tag>tool</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799884876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.50</s:price>
+      <s:sku>screwdriver</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799741644</id>
+    <published>2016-10-24T13:14:00-07:00</published>
+    <updated>2016-10-24T13:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/beone-case-with-zipper"/>
+    <title>BeOne Case with zipper</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Case_BeOne_with_Zipper.jpg?v=1579604854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>case</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799741644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>SKU02096</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799714252</id>
+    <published>2016-10-24T13:11:00-07:00</published>
+    <updated>2016-10-24T13:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/beone-case-premium"/>
+    <title>BeOne Case Premium</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Case_BeOne_Premium_closed.jpg?v=1579604854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799714252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>SKU02099</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799617484</id>
+    <published>2016-10-24T12:39:00-07:00</published>
+    <updated>2016-10-24T12:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/oxigen-mirror"/>
+    <title>Oxigen Mirror - Table Stand Up Mirror</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Mirror_Oxigen.jpg?v=1579603205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mirror</s:tag>
+    <s:tag>per one</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799617484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU01314</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799365772</id>
+    <published>2016-10-24T12:38:00-07:00</published>
+    <updated>2016-10-24T12:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/brown-cord"/>
+    <title>Brown Cord</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Cord_A1_-_Brown.jpg?v=1579604861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cords</s:tag>
+    <s:tag>per dozen</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799365772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>SKU01048</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799314316</id>
+    <published>2016-10-24T12:33:00-07:00</published>
+    <updated>2016-10-24T12:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/green-microfiber-cleaning-cloth"/>
+    <title>Green Microfiber Cleaning Cloth</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Cleaning_Cloth_A12-Green.jpg?v=1579603164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning cloth</s:tag>
+    <s:tag>per dozen</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799314316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>CLEANINGCLOTHGRN</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799282572</id>
+    <published>2016-10-24T12:31:00-07:00</published>
+    <updated>2016-10-24T12:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/black-microfiber-cleaning-cloth"/>
+    <title>Black Microfiber Cleaning Cloth</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Cleaning_Cloth_A12_Black.jpg?v=1579604857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning cloth</s:tag>
+    <s:tag>per dozen</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799282572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>CLEANINGCLOTHBLK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799194444</id>
+    <published>2016-10-24T12:24:00-07:00</published>
+    <updated>2016-10-24T12:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/red-fashion-microfiber-pouch"/>
+    <title>Red Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionRedMicrofiber.jpg?v=1627765729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale microfiber pouches for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799194444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-RED</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799179020</id>
+    <published>2016-10-24T12:23:00-07:00</published>
+    <updated>2016-10-24T12:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/purple-fashion-microfiber-pouch"/>
+    <title>Purple Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionPurpleMicrofiber.jpg?v=1628094323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk purple microfiber pouches for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799179020</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-PURPLE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799161740</id>
+    <published>2016-10-24T12:21:00-07:00</published>
+    <updated>2016-10-24T12:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pink-fashion-microfiber-pouch"/>
+    <title>Pink Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionPinkMicrofiber.jpg?v=1627765720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale pink microfiber pouches for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799161740</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-PINK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799105100</id>
+    <published>2016-10-24T12:17:00-07:00</published>
+    <updated>2016-10-24T12:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/a16-grey-fashion-microfiber-pouch"/>
+    <title>Grey Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionGreyMicrofiber.jpg?v=1627765700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale grey microfiber pouches for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799105100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-GREY</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8799048268</id>
+    <published>2016-10-24T12:12:00-07:00</published>
+    <updated>2016-10-24T12:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/blue-fashion-microfiber-pouch-a19"/>
+    <title>Blue Fashion Microfiber Pouch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PouchFashionBlueMicrofiber.jpg?v=1627765687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk microfiber pouch for sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen</s:tag>
+    <s:tag>pouch</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8799048268</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MP-BLUE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-oxigen-sunglasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2016-12-09T12:55:09-08:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158878412</id>
+    <published>2016-12-09T12:55:09-08:00</published>
+    <updated>2016-12-09T12:55:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-fashion-wrap-around-shield-plastic-ox-8719"/>
+    <title>OX 8719 - Retro Fashion Wrap Around Shield Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_8719_-_1.jpg?v=1579603205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>shield lens</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158878412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU01484</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158878284</id>
+    <published>2016-12-09T12:55:07-08:00</published>
+    <updated>2016-12-09T12:55:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-one-piece-wrap-around-plastic-ox-8718"/>
+    <title>OX 8718 - One Piece Wrap Around Shield Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_8718_-_1.jpg?v=1579603204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>shield</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158878284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU01483</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158876940</id>
+    <published>2016-12-09T12:54:54-08:00</published>
+    <updated>2016-12-09T12:54:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-one-piece-shield-wrap-around-plastic-ox-7401"/>
+    <title>OX 7401 - One Piece Shield Wrap Around Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_7401_-_6.jpg?v=1579603203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>one piece</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158876940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SKU01435</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158876492</id>
+    <published>2016-12-09T12:54:50-08:00</published>
+    <updated>2016-12-09T12:54:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-aviator-with-brow-bar-metal-ox-2864"/>
+    <title>OX 2864 - Classic Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2079_baefcb92-2520-4096-83fc-b5686317b614.jpg?v=1615416470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158876492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU02111</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158876428</id>
+    <published>2016-12-09T12:54:49-08:00</published>
+    <updated>2016-12-09T12:54:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-oval-shaped-metal-sunglasses-color-mirror-lens-ox-2863-rvc"/>
+    <title>OX 2863 RVC - Classic Oval Shaped Metal Sunglasses with Color Mirror Lens</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2069_f0e77577-5754-4696-87f4-2183d83e3a2d.jpg?v=1616969632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158876428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01408</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158876236</id>
+    <published>2016-12-09T12:54:47-08:00</published>
+    <updated>2016-12-09T12:54:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-metal-oval-shaped-sunglasses-ox-2863"/>
+    <title>OX 2863 - Classic Oval Shaped Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2070.jpg?v=1615423066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158876236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01407</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158876044</id>
+    <published>2016-12-09T12:54:46-08:00</published>
+    <updated>2016-12-09T12:54:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-modern-metal-shaped-sunglasses-ox-2862"/>
+    <title>OX 2862 - Modern Metal Oval Shaped Sunglasses with Brow Bar</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2068.jpg?v=1615422843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158876044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01406</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158875916</id>
+    <published>2016-12-09T12:54:45-08:00</published>
+    <updated>2016-12-09T12:54:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-aviator-with-brow-bar-metal-ox-2861"/>
+    <title>OX 2861 - Classic Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2072.jpg?v=1616969710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158875916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01405</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158875788</id>
+    <published>2016-12-09T12:54:43-08:00</published>
+    <updated>2016-12-09T12:54:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-square-aviator-with-brow-bar-metal-ox-2860"/>
+    <title>OX 2860 - Classic Square Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2073.jpg?v=1616969748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale sunglasses</p>
+<p>Measurements</p>
+<ul>
+<li>Lens Width: 58mm</li>
+<li>Bridge: 18mm</li>
+<li>Temple: 135mm</li>
+<li>Lens Height: 50mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158875788</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01404</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158875724</id>
+    <published>2016-12-09T12:54:42-08:00</published>
+    <updated>2016-12-09T12:54:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-aviator-with-brow-bar-metal-ox-2859"/>
+    <title>OX 2859 - Classic Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2079.jpg?v=1615423239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158875724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01403</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158875532</id>
+    <published>2016-12-09T12:54:40-08:00</published>
+    <updated>2016-12-09T12:54:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-asymmetrical-square-aviator-with-brow-bar-ox-2858"/>
+    <title>OX 2858 - Asymmetrical Square Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2076.jpg?v=1616969849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158875532</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01402</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158875340</id>
+    <published>2016-12-09T12:54:39-08:00</published>
+    <updated>2016-12-09T12:54:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-asymmetrical-square-aviator-with-brow-bar-metal-ox-2857"/>
+    <title>OX 2857 - Asymmetrical Square Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2077.jpg?v=1616969891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>rv</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158875340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01401</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158875276</id>
+    <published>2016-12-09T12:54:37-08:00</published>
+    <updated>2016-12-09T12:54:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-aviator-with-brow-bar-metal-ox-2855"/>
+    <title>OX 2855 - Classic Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2078.jpg?v=1616969915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk aviator sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158875276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01400</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158874764</id>
+    <published>2016-12-09T12:54:34-08:00</published>
+    <updated>2016-12-09T12:54:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-aviator-with-brow-bar-metal-ox-2853"/>
+    <title>OX 2853 - Classic Aviator with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2074.jpg?v=1615423343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>bulk aviator sunglasses</p>
+<p>Measurements</p>
+<ul>
+<li>Lens Width: 60mm</li>
+<li>Bridge: 14mm</li>
+<li>Temple: 135mm</li>
+<li>Lens Height: 50mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158874764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01398</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158874252</id>
+    <published>2016-12-09T12:54:28-08:00</published>
+    <updated>2016-12-09T12:54:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-mens-metal-rectangular-sunglasses-ox-2848"/>
+    <title>OX 2848 - Men&apos;s Metal Rectangular Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_2848_-_1.jpg?v=1579603188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158874252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01394</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158874572</id>
+    <published>2016-12-09T12:54:00-08:00</published>
+    <updated>2016-12-09T12:54:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-aviator-half-rimmed-with-brow-bar-metal-ox-2850"/>
+    <title>OX 2850 - Classic Aviator Half Rimmed with Brow Bar Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2075.jpg?v=1616969810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158874572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01396</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158873996</id>
+    <published>2016-12-09T12:54:00-08:00</published>
+    <updated>2016-12-09T12:54:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-oval-shaped-metal-ox-2844"/>
+    <title>OX 2844 - Oval Shaped Half Rimmed Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_2844.jpg?v=1579603185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158873996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01390</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158873612</id>
+    <published>2016-12-09T12:54:00-08:00</published>
+    <updated>2016-12-09T12:54:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-oval-shaped-half-rimmed-ox-2838"/>
+    <title>OX 2838 - Oval Shaped Half Rimmed Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_2838.jpg?v=1579603183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158873612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01386</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158865036</id>
+    <published>2016-12-09T12:53:21-08:00</published>
+    <updated>2016-12-09T12:53:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-modern-metal-aviator-ox-2800"/>
+    <title>OX 2800 - Modern Metal Aviator Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_2800_-_2.jpg?v=1579603169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158865036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SKU01340</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158864780</id>
+    <published>2016-12-09T12:53:20-08:00</published>
+    <updated>2016-12-09T12:53:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-rectangular-one-piece-shield-plastic-temple-metal-ox-2663"/>
+    <title>OX 2663 - Rectangular One Piece Shield Plastic Temple Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_2663_-_2.jpg?v=1579603168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158864780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU01339</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9158864204</id>
+    <published>2016-12-09T12:53:17-08:00</published>
+    <updated>2016-12-09T12:53:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-metal-aviator-plastic-temple-ox-2574"/>
+    <title>OX 2574 - Classic Metal Aviator Sunglasses with Plastic Temple</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Oxigen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/OX_2574_-_2.jpg?v=1579603167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oxigen<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>bulk sunglasses</p>
+<p>Measurements</p>
+<ul>
+<li>Lens Width: 60mm</li>
+<li>Bridge: 15mm</li>
+<li>Temple: 125mm</li>
+<li>Lens Height: 54mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9158864204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU01336</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

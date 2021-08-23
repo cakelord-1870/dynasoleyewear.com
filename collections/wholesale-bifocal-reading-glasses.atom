@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-bifocal-reading-glasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2020-10-23T14:28:47-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4741936087129</id>
+    <published>2020-10-23T14:28:47-07:00</published>
+    <updated>2020-10-23T14:28:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-bifocal-reading-sunglasses-reader-rs-6176"/>
+    <title>RS 6176 - Bifocal Reading Sunglasses Reader</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0692.jpg?v=1603488529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale plastic bifocal reading sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bi-focal</s:tag>
+    <s:tag>bifocal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4741936087129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>RS6176BF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4729278038105</id>
+    <published>2020-10-01T14:32:56-07:00</published>
+    <updated>2020-10-01T14:32:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-8834-bf-tr90-bifocal-reading-sunglasses"/>
+    <title>RS 8834 BF - Bifocal Reading Sunglasses For Big Head Large Men TR 90 Frame</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0463.jpg?v=1613420726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale TR90 frame bifocal reading sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bi-focal</s:tag>
+    <s:tag>bifocal</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4729278038105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4729271779417</id>
+    <published>2020-10-01T14:07:28-07:00</published>
+    <updated>2020-10-01T14:07:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1216-bf-bifocal-reading-sunglasses-reader-with-rhinestone"/>
+    <title>RS 1216 BF - Bifocal Reading Sunglasses Reader with Rhinestone</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0665.jpg?v=1603487288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale bifocal reading plastic sunglasses with rhinestones</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bi-focal</s:tag>
+    <s:tag>bifocal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4729271779417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>RS1216BF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4729250087001</id>
+    <published>2020-10-01T13:23:09-07:00</published>
+    <updated>2020-10-01T13:23:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-bifocal-reading-sunglasses-rs-1210-bf"/>
+    <title>RS 1210 BF - Classic Bifocal Reading Sunglasses Outdoor Bifocal Readers</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0658.jpg?v=1613420867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale bifocal reading sunglasses Outdoor Readers</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bi-focal</s:tag>
+    <s:tag>bifocal</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4729250087001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>RS1210BF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

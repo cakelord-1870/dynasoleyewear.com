@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-eyewear-computer-readers.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2019-09-25T11:54:36-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4164623597657</id>
+    <published>2019-09-25T11:54:36-07:00</published>
+    <updated>2019-09-25T11:54:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1211-300"/>
+    <title>CRS 1211 +300 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1211_300_-_2.jpg?v=1579604877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +300</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4164623597657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1211300</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4164621729881</id>
+    <published>2019-09-25T11:53:25-07:00</published>
+    <updated>2019-09-25T11:53:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1211-250"/>
+    <title>CRS 1211 +250 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1211_250_-_2.jpg?v=1579604875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +250</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4164621729881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1211250</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4164616585305</id>
+    <published>2019-09-25T11:50:44-07:00</published>
+    <updated>2019-09-25T11:50:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1211-100"/>
+    <title>CRS 1211 +100 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1211_100_-_2.jpg?v=1579604874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +100</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4164616585305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CRS1211100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4164502519897</id>
+    <published>2019-09-25T10:15:27-07:00</published>
+    <updated>2019-09-25T10:15:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1019-350"/>
+    <title>CRS 1019 +350 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1019_350_-_2.jpg?v=1579604867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reader</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4164502519897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1019350</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4164500815961</id>
+    <published>2019-09-25T10:13:39-07:00</published>
+    <updated>2019-09-25T10:13:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1019-300"/>
+    <title>CRS 1019 +300 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1019_300_-_3.jpg?v=1579604866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reader</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4164500815961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1019300</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4164499275865</id>
+    <published>2019-09-25T10:12:17-07:00</published>
+    <updated>2019-09-25T10:12:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1019-225"/>
+    <title>CRS 1019 +225 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1019_225_-_2.jpg?v=1579604866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reader</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4164499275865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1019225</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4164495933529</id>
+    <published>2019-09-25T10:09:09-07:00</published>
+    <updated>2019-09-25T10:09:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1019-125"/>
+    <title>CRS 1019 +125 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1019_125_-_2.jpg?v=1579604865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reader</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4164495933529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CRS1019125</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162874015833</id>
+    <published>2019-09-24T16:15:20-07:00</published>
+    <updated>2019-09-24T16:15:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-glasses-crs-1018"/>
+    <title>CRS 1018 - Rectangular Plastic Computer Tinted Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_5640_4605c627-44e6-4754-95eb-679ec9177759.JPG?v=1579604864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer glasses - no power</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162874015833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1018NOPOWER</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162739896409</id>
+    <published>2019-09-24T14:11:26-07:00</published>
+    <updated>2019-09-24T14:11:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-120-350"/>
+    <title>CRS 1020 +350 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_350_-_3.jpg?v=1579604873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +350</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162739896409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020350</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162738061401</id>
+    <published>2019-09-24T14:10:11-07:00</published>
+    <updated>2019-09-24T14:10:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1020-300"/>
+    <title>CRS 1020 +300 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_300_-_3.jpg?v=1579604872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +300</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162738061401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020300</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162735997017</id>
+    <published>2019-09-24T14:07:58-07:00</published>
+    <updated>2019-09-24T14:07:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1020-250"/>
+    <title>CRS 1020 +250 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_250_-_2.jpg?v=1579604871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +250</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162735997017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020250</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162725642329</id>
+    <published>2019-09-24T13:56:42-07:00</published>
+    <updated>2019-09-24T13:56:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1020-225"/>
+    <title>CRS 1020 +225 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_225_-_3.jpg?v=1579604871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +225</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162725642329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020225</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162722889817</id>
+    <published>2019-09-24T13:54:14-07:00</published>
+    <updated>2019-09-24T13:54:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1020-200"/>
+    <title>CRS 1020 +200 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_200_-_3.jpg?v=1579604870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +200</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162722889817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020200</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162720432217</id>
+    <published>2019-09-24T13:51:50-07:00</published>
+    <updated>2019-09-24T13:51:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-1020-175"/>
+    <title>CRS 1020 +175 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_175_-_3.jpg?v=1579604869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +175</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162720432217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020175</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162719219801</id>
+    <published>2019-09-24T13:50:21-07:00</published>
+    <updated>2019-09-24T13:50:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-plastic-computer-tinted-reading-glasses-crs-120-1050"/>
+    <title>CRS 1020 +150 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_150_-_3.jpg?v=1579604869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +150</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162719219801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020150</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4162710798425</id>
+    <published>2019-09-24T13:41:33-07:00</published>
+    <updated>2019-09-24T13:41:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/copy-of-crs-1020-100-rectangular-plastic-computer-tinted-reading-glasses-crs-1020-100"/>
+    <title>CRS 1020 +100 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020_100_-_2.jpg?v=1579604867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +100</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4162710798425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8703463884</id>
+    <published>2016-10-05T10:16:00-07:00</published>
+    <updated>2016-10-05T10:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-computer-reading-glasses-rectangular-plastic-crs-1020-125"/>
+    <title>CRS 1020 +125 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/CRS_1020.jpg?v=1579604868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reading glasses +125</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8703463884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1020125</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8703454284</id>
+    <published>2016-10-05T10:09:00-07:00</published>
+    <updated>2016-10-05T10:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-computer-reading-glasses-rectangular-plastic-crs-1018-350"/>
+    <title>CRS 1018 +350 - Rectangular Plastic Computer Tinted Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1018_350_-_2.jpg?v=1579604863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale computer reader</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>computer</s:tag>
+    <s:tag>per dozen of single power</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8703454284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRS1018350</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

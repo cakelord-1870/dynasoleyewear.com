@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-beone-sunglasses-collection.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-02-03T16:23:47-08:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4785253974105</id>
+    <published>2021-02-03T16:23:47-08:00</published>
+    <updated>2021-02-03T16:23:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/monster-rectangular-plastic-sunglasses"/>
+    <title>Monster - Rectangular Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/MONSTER.jpg?v=1612398228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4785253974105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MONSTER</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4785251156057</id>
+    <published>2021-02-03T16:20:05-08:00</published>
+    <updated>2021-02-03T16:20:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/mega-plastic-rectangular-wrap-around-sunglasses"/>
+    <title>Mega - Plastic Rectangular Wrap Around Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/MEGA_7ea390cd-bee8-40dd-8381-96c297a75112.jpg?v=1612831831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale wrap around plastic sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4785251156057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MEGA</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4761422037081</id>
+    <published>2020-12-09T14:45:21-08:00</published>
+    <updated>2020-12-09T14:45:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/pl-leo-polarized-sports-wrap-around-sunglasses"/>
+    <title>PL Leo - Polarized Sports Wrap Around Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9610.jpg?v=1607553922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized wrap around sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>full wrap</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>sports</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4761422037081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>PLLEO</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464741134425</id>
+    <published>2018-08-28T11:09:52-07:00</published>
+    <updated>2018-08-28T11:09:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-retro-polarized-cat-eye-chunk-plastic-pl-3946"/>
+    <title>PL 3946 - Retro Polarized Cat Eye Chunk Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3946_-_2.jpg?v=1579603270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464741134425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PL 3946</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464738087001</id>
+    <published>2018-08-28T11:09:08-07:00</published>
+    <updated>2018-08-28T11:09:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-round-horn-rimmed-cat-eye-chunky-plastic-polarized-pl-3945"/>
+    <title>PL 3945 - Round Horn Rimmed Cat Eye Chunky Plastic Polarized Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3945_-_2.jpg?v=1579603269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized sunglasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464738087001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>PL 3945</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464735826009</id>
+    <published>2018-08-28T11:08:31-07:00</published>
+    <updated>2018-08-28T11:08:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-square-flat-top-flat-lens-plastic-polarized-pl-3944"/>
+    <title>PL 3944 - Square Flat Top Flat Lens Plastic Polarized Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3944_-_5.jpg?v=1579603268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale-polarized-sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat lens</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464735826009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>PL 3944</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1464730320985</id>
+    <published>2018-08-28T11:06:27-07:00</published>
+    <updated>2018-08-28T11:06:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-retro-aviator-flat-top-plastic-pl-3942"/>
+    <title>PL 3942 - Polarized Retro Aviator Flat Top Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3942_-_2.jpg?v=1579603267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale polarized sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviator</s:tag>
+    <s:tag>flat top</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1464730320985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>PL 3942</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1321832906841</id>
+    <published>2018-07-20T12:24:52-07:00</published>
+    <updated>2018-07-20T12:24:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-tall-big-xl-oversized-rectangular-polarized-metal-sunglasses-pl-3940"/>
+    <title>PL 3940 - Men&apos;s Big and Tall XL Oversized Rectangular Polarized Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_46841.JPG?v=1579603266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Express yourself with our bulk BeOne XL polarized sunglasses. These large polarized sunglasses are designed for larger men to bring out their masculinity by maximizing comfort, sizes for lens width of 62 millimeters, lens height of 43 millimeters, bridge width of 14 millimeters, and temples measure up to 125 millimeters. Give the big guy polarized sunglasses that he will be proud to wear. Our BeOne XL wholesale polarized sunglasses are also Asian fit. Not only these sunglasses are comfortable to wear, it provides the highest level of protection from UVA and UVB rays from the sun. These sunglasses are the perfect choice for outdoor sports and activities such as driving, hiking,traveling, fishing, shopping, water sports, skateboarding, and especially the beach in the summer. With these polarized sunglasses, you can get reduced reflected light and a clearer color vision. With different light conditions, glares can be an issue especially for drivers, but with these wholesale polarized sunglasses  it can help reduce the glares. These sunglasses provides 100% UV protection from the sun's harmful UV rays. Your eyes work hard every day and these sunglasses can help reduce the strain. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1321832906841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SKU03018</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/1321827205209</id>
+    <published>2018-07-20T12:19:11-07:00</published>
+    <updated>2018-07-20T12:19:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-xl-oversized-rectangular-polarized-metal-sunglasses-pl-3939"/>
+    <title>PL 3939 - Men&apos;s XL Oversized Rectangular Polarized Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/JIN_46401.JPG?v=1579603265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Express yourself with our BeOne XL wholesale polarized sunglasses. These large bulk polarized sunglasses are designed for larger men to bring out their masculinity by maximizing comfort, sizes for lens width of 65 millimeters, lens height of 44 millimeters, bridge width of 14 millimeters, and temples measure up to 129 millimeters. Give the big guy polarized sunglasses that he will be proud to wear. Our BeOne XL polarized sunglasses are also Asian fit. Not only these sunglasses are comfortable to wear, it provides the highest level of protection from UVA and UVB rays from the sun. These sunglasses are the perfect choice for outdoor sports and activities such as driving, hiking,traveling, fishing, shopping, water sports, skateboarding, and especially the beach in the summer. With these polarized sunglasses, you can get reduced reflected light and a clearer color vision. With different light conditions, glares can be an issue especially for drivers, but with these polarized sunglasses it can help reduce the glares. These sunglasses provides 100% UV protection from the sun's harmful UV rays. Your eyes work hard every day and these sunglasses can help reduce the strain. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/1321827205209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SKU03017</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/46263795737</id>
+    <published>2017-08-24T09:17:38-07:00</published>
+    <updated>2017-08-24T09:17:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-retro-round-key-hole-pl-seth"/>
+    <title>PL Seth - Polarized Round Key Hole Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Seth_-_3.jpg?v=1579603414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow bar</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>polarized</s:tag>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/46263795737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>SKU02790</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/46263533593</id>
+    <published>2017-08-24T09:17:29-07:00</published>
+    <updated>2017-08-24T09:17:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-square-flat-top-retro-pl-cupertino"/>
+    <title>PL Cupertino - Polarized Flat Top Square Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2550.jpg?v=1626555877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/46263533593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>SKU02783</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10924525836</id>
+    <published>2017-06-01T12:50:18-07:00</published>
+    <updated>2017-06-01T12:50:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-men-square-horn-rimmed-pl-urban"/>
+    <title>PL Urban - Polarized Men Square Horn Rimmed Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Urban_-_5.jpg?v=1579603425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10924525836</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>SKU02680</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10924525708</id>
+    <published>2017-06-01T12:49:46-07:00</published>
+    <updated>2017-06-01T12:49:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-cat-eye-retro-women-pl-soprano"/>
+    <title>PL Soprano - Polarized Women Retro Cat Eye Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Soprano_-_6.jpg?v=1579603416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10924525708</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>SKU02679</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10924525516</id>
+    <published>2017-06-01T12:47:44-07:00</published>
+    <updated>2017-06-01T12:47:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-women-cat-eye-rhinestone-pl-otavia"/>
+    <title>PL Otavia - Polarized Women Cat Eye with Rhinestone Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Otavia_-_7.jpg?v=1579603403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10924525516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>SKU02678</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10924525132</id>
+    <published>2017-06-01T12:45:56-07:00</published>
+    <updated>2017-06-01T12:45:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-women-half-rimmed-cat-eye-pl-mira"/>
+    <title>PL Mira - Polarized Women Cat Eye Half Rimmed Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Mira_-_4.jpg?v=1579603391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10924525132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>SKU02676</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10924524940</id>
+    <published>2017-06-01T12:45:41-07:00</published>
+    <updated>2017-06-01T12:45:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-cat-eye-classic-half-rimmed-flat-lens-women-pl-magdalena"/>
+    <title>PL Magdalena - Polarized Women Classic Cat Eye Flat Lens Half Rimmed Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Magdalena_-_3.jpg?v=1579603379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10924524940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>SKU02675</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10924524556</id>
+    <published>2017-06-01T12:44:35-07:00</published>
+    <updated>2017-06-01T12:44:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-women-vintage-cat-eye-pl-ivy"/>
+    <title>PL Ivy - Polarized Women Vintage Cat Eye Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Ivy_-_5.jpg?v=1579603362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10924524556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>SKU02672</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10924523788</id>
+    <published>2017-06-01T12:40:06-07:00</published>
+    <updated>2017-06-01T12:40:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-cat-eye-round-women-pl-andorra"/>
+    <title>PL Andorra - Polarized Women Round Cat Eye Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Andorra_-_3.jpg?v=1579603325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10924523788</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>SKU02667</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9263043020</id>
+    <published>2016-12-23T13:16:00-08:00</published>
+    <updated>2016-12-23T13:16:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-bulk-round-pl-uptown"/>
+    <title>PL Uptown - Polarized Round Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/UPTOWN-1.jpg?v=1579603424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9263043020</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>SKU02522</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9263042188</id>
+    <published>2016-12-23T13:16:00-08:00</published>
+    <updated>2016-12-23T13:16:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-retro-square-half-rimmed-pl-midtown"/>
+    <title>PL Midtown - Polarized Half Rimmed Retro Square Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/MIDTOWN-3.jpg?v=1579603387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9263042188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>SKU02517</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731298252</id>
+    <published>2016-10-11T10:19:00-07:00</published>
+    <updated>2016-10-11T10:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/bulk-mens-polarized-sunglasses-wholesale-pl-3927"/>
+    <title>PL 3927 - Polarized Men Rectangular Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL-3927_03.jpg?v=1612461572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731298252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>SKU01561</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8731194060</id>
+    <published>2016-10-11T10:03:00-07:00</published>
+    <updated>2016-10-11T10:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-rimless-sport-men-pl-3625-nv"/>
+    <title>PL 3625 NV - Polarized Men Rimless Sport with Night Vision Lens Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3625_NV_-_3.jpg?v=1579603233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>night vision</s:tag>
+    <s:tag>per dozen of single color</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8731194060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>SKU01520</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/5429412614</id>
+    <published>2016-09-09T12:34:00-07:00</published>
+    <updated>2016-09-09T12:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-bulk-aviator-pl-3900"/>
+    <title>PL 3900 - Polarized Brow Bar Aviator Metal Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PL_3900_-_3.jpg?v=1579603236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            50.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/5429412614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.50</s:price>
+      <s:sku>SKU01536</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8142655622</id>
+    <published>2016-08-19T12:27:00-07:00</published>
+    <updated>2016-08-19T12:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-classic-square-pl-duke"/>
+    <title>PL Duke - Polarized Classic Square Frame Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DUKE-1.jpg?v=1579603345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8142655622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>SKU02327</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8093278534</id>
+    <published>2016-08-16T13:53:00-07:00</published>
+    <updated>2016-08-16T13:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-polarized-men-classic-sport-square-pl-poly"/>
+    <title>PL Poly - Polarized Men Classic Square Sport Plastic Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>BeOne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_5390.jpg?v=1579603405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeOne<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8093278534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>SKU02316</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

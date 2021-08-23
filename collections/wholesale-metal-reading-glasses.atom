@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-metal-reading-glasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-01-13T15:58:50-08:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775657406553</id>
+    <published>2021-01-13T15:58:50-08:00</published>
+    <updated>2021-01-13T15:58:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rectangular-metal-reading-glasses-rs-1378"/>
+    <title>RS 1378 - Rectangular Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1497.jpg?v=1610658193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775657406553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>RS1378</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775655833689</id>
+    <published>2021-01-13T15:51:35-08:00</published>
+    <updated>2021-01-13T15:51:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1375-metal-rectangular-reading-glasses"/>
+    <title>RS 1375 - Metal Rectangular Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1489.jpg?v=1610657989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale metal reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775655833689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>RS1375</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4768714129497</id>
+    <published>2020-12-28T13:11:43-08:00</published>
+    <updated>2020-12-28T13:11:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1205-rectangular-metal-reading-glasses"/>
+    <title>RS 1205 - Rectangular Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS1205_2.00_2.jpg?v=1609189906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4768714129497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>RS1205</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4672237404249</id>
+    <published>2020-07-02T15:13:36-07:00</published>
+    <updated>2020-07-02T15:13:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholeasle-rectangular-metal-reading-glasses-rs-1206"/>
+    <title>RS 1206 - Rectangular Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS1206-3.jpg?v=1593728017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4672237404249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>RS1206</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8704216076</id>
+    <published>2016-10-05T13:03:00-07:00</published>
+    <updated>2016-10-05T13:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-rectangular-horn-rimmed-metal-rs-1271"/>
+    <title>RS 1271 - Rectangular Horn Rimmed Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1271_RS.jpg?v=1579602501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8704216076</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU00076</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8704201676</id>
+    <published>2016-10-05T12:59:00-07:00</published>
+    <updated>2016-10-05T12:59:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-classic-horn-rimmed-rectangular-metal-rs-1270"/>
+    <title>RS 1270 - Classic Horn Rimmed Rectangular Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1270_RS.jpg?v=1579602500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8704201676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU00075</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8704188364</id>
+    <published>2016-10-05T12:57:00-07:00</published>
+    <updated>2016-10-05T12:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-horn-rimmed-half-frame-metal-rs-1266"/>
+    <title>RS 1266 - Horn Rimmed Half Frame Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_5617.JPG?v=1579602499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8704188364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU00074</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8704166796</id>
+    <published>2016-10-05T12:54:00-07:00</published>
+    <updated>2016-10-05T12:54:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-rectangular-half-frame-metal-rs-1264"/>
+    <title>RS 1264 - Rectangular Half Frame Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1264.jpg?v=1579602498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8704166796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU00072</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8703525580</id>
+    <published>2016-10-05T10:55:00-07:00</published>
+    <updated>2016-10-05T10:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-tiny-oval-rimless-with-keyhole-plastic-rs-1033"/>
+    <title>RS 1033 - Tiny Oval Rimless Metal Reading Glasses with Case</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/1033_RS.jpg?v=1579603483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8703525580</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>SKU00014</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/7594258374</id>
+    <published>2016-07-15T11:41:00-07:00</published>
+    <updated>2016-07-15T11:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-butterfly-decorative-temple-metal-rs-1299"/>
+    <title>RS 1299 - Butterfly Decorative Temple Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1299_1.25.jpg?v=1579602508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/7594258374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU02228</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/7594225158</id>
+    <published>2016-07-15T11:39:00-07:00</published>
+    <updated>2016-07-15T11:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-butterfly-decorative-temple-metal-rs-1297"/>
+    <title>RS 1297 - Butterfly Decorative Temple Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1297_2.25.jpg?v=1579602506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/7594225158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU02227</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/7594207750</id>
+    <published>2016-07-15T11:37:00-07:00</published>
+    <updated>2016-07-15T11:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-butterfly-temple-cut-out-metal-rs-1296"/>
+    <title>RS 1296 - Butterfly Temple Cut Out Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1296_2.50.jpg?v=1579602505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/7594207750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU02226</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/7594156358</id>
+    <published>2016-07-15T11:33:00-07:00</published>
+    <updated>2016-07-15T11:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-classic-aviator-with-brow-bar-metal-rs-1284"/>
+    <title>RS 1284 - Classic Aviator with Brow Bar Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1284_1.25.jpg?v=1579602503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/7594156358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU02224</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/7594082950</id>
+    <published>2016-07-15T11:25:00-07:00</published>
+    <updated>2016-07-15T11:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-oval-frame-chain-detail-on-temple-metal-rs-1203"/>
+    <title>RS 1203 - Oval Frame Chain Detail on Temple Metal Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1203_1.50.jpg?v=1579602487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/7594082950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU02222</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

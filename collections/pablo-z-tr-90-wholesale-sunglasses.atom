@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/pablo-z-tr-90-wholesale-sunglasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2016-10-18T11:39:00-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768234124</id>
+    <published>2016-10-18T11:39:00-07:00</published>
+    <updated>2016-10-18T11:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-sport-wrap-around-half-rimmed-tr90-turin"/>
+    <title>Turin - Sport Wrap Around Half Rimmed TR90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Turin.jpg?v=1579602571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768234124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>SKU01967</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768233036</id>
+    <published>2016-10-18T11:37:00-07:00</published>
+    <updated>2016-10-18T11:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-sport-wrap-around-slim-temple-tr90-tirano"/>
+    <title>Tirano - Classic Sport Wrap Around Slim Temple TR90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Tirano.jpg?v=1579602571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768233036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SKU01966</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768232140</id>
+    <published>2016-10-18T11:30:00-07:00</published>
+    <updated>2016-10-18T11:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-sport-wrap-around-one-piece-shield-tr90-steamer"/>
+    <title>Steamer - Classic Sport Wrap Around One Piece Shield TR90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Steamer.jpg?v=1579602567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768232140</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>SKU01965</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768221516</id>
+    <published>2016-10-18T11:27:00-07:00</published>
+    <updated>2016-10-18T11:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-classic-sport-wrap-around-polarized-tr90-sassari"/>
+    <title>Sassari - Classic Sport Wrap Around Polarized TR 90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Sassari.jpg?v=1579602566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768221516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>SKU01964</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768203276</id>
+    <published>2016-10-18T11:25:00-07:00</published>
+    <updated>2016-10-18T11:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-sports-tr90-lucca"/>
+    <title>Lucca - Men Sport TR90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Lucca.jpg?v=1579603165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768203276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>SKU01963</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768170188</id>
+    <published>2016-10-18T11:20:00-07:00</published>
+    <updated>2016-10-18T11:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-sports-tr90-craver"/>
+    <title>Craver - Men Sport TR90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Craver.jpg?v=1579604863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768170188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>SKU01960</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768158476</id>
+    <published>2016-10-18T11:19:00-07:00</published>
+    <updated>2016-10-18T11:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-sport-tr90-broni"/>
+    <title>Broni - Men Sport TR90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Broni.jpg?v=1579604860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768158476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>SKU01958</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8768144780</id>
+    <published>2016-10-18T11:15:00-07:00</published>
+    <updated>2016-10-18T11:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-sunglasses-mens-sport-tr90-chivasso"/>
+    <title>Chivasso - Men Sport TR90 Sunglasses</title>
+    <s:type>sunglasses</s:type>
+    <s:vendor>Pablo Z.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/Chivasso.jpg?v=1579604862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo Z.<br>
+        <strong>Type: </strong>sunglasses<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>per dozen of assorted colors</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tr90</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8768144780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>SKU01959</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

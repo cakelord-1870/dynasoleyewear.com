@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dynasoleyewear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dynasoleyewear.com/collections/wholesale-plastic-reading-glasses.atom"/>
+  <title>Dynasol Eyewear</title>
+  <updated>2021-07-31T13:32:57-07:00</updated>
+  <author>
+    <name>Dynasol Eyewear</name>
+  </author>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674964414553</id>
+    <published>2021-07-31T13:32:57-07:00</published>
+    <updated>2021-07-31T13:32:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1074-bl-blue-light-blocking-reading-glasses"/>
+    <title>RS 1074 BL - Blue Light Blocking Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2605.jpg?v=1627763602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale blue light blocking reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674964414553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RS1074BL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/6674962710617</id>
+    <published>2021-07-31T13:32:11-07:00</published>
+    <updated>2021-07-31T13:32:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1073-bl-blue-light-blocking-reading-glasses"/>
+    <title>RS 1073 BL - Blue Light Blocking Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_2608.jpg?v=1627763532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale blue light blocking reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue light</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/6674962710617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RS1073BL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775659274329</id>
+    <published>2021-01-13T16:05:27-08:00</published>
+    <updated>2021-01-13T16:05:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1441-rectangular-plastic-reading-glasses"/>
+    <title>RS 1441 - Rectangular Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1492.jpg?v=1610658086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale plastic reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775659274329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>RS1441</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775636435033</id>
+    <published>2021-01-13T15:09:31-08:00</published>
+    <updated>2021-01-13T15:09:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1308-rectangular-plastic-reading-glasses"/>
+    <title>RS 1308 - Rectangular Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1308_125_3479e993-f40e-4dec-8f0a-e315882f334b.jpg?v=1610579376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale reading glasses</p>
+<p>Size: 49-17-140</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775636435033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>RS1308</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4775065092185</id>
+    <published>2021-01-12T12:08:58-08:00</published>
+    <updated>2021-01-12T12:08:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1051-plastic-rectangular-sunglasses"/>
+    <title>RS 1051 - Plastic Rectangular Sunglasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_1494.jpg?v=1610658137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale plastic rectangular sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4775065092185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>RS1051</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4751008661593</id>
+    <published>2020-11-16T13:23:24-08:00</published>
+    <updated>2020-11-16T13:23:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1209-cat-eye-reading-glasses-with-spring-hinge"/>
+    <title>RS 1209 - Cat Eye Reading Glasses with Spring Hinge</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_0269_10591fc5-be39-420e-bae3-01eab204ed43.jpg?v=1605561887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale cat eye reading glasses for women</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4751008661593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4751008006233</id>
+    <published>2020-11-16T13:20:10-08:00</published>
+    <updated>2020-11-16T13:20:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/rs-1513-plastic-rectangle-reading-glasses"/>
+    <title>RS 1513 - Plastic Rectangle Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/PZ1513-C11_ab752190-4297-473d-a984-6a49f20bc0f0.jpg?v=1605561671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale reading glasses in mixed power</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4751008006233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4420777246809</id>
+    <published>2020-01-07T16:44:47-08:00</published>
+    <updated>2020-01-07T16:44:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-rectangular-reading-glasses-spring-hinge-rs-1208"/>
+    <title>RS 1208 - Plastic Rectangular Reading Glasses with Spring Hinge</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7002.jpg?v=1579602490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale reading glasses with spring hinge</p>
+<p>Measurement: 54-17-140</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4420777246809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>RS1208</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4415854837849</id>
+    <published>2020-01-07T16:35:17-08:00</published>
+    <updated>2020-01-07T16:35:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-reading-glasses-rs-1202"/>
+    <title>RS 1202 - Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6928.jpg?v=1592004447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale reading glasses assorted by power</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4415854837849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>RS1202</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4415853396057</id>
+    <published>2020-01-07T16:35:16-08:00</published>
+    <updated>2020-01-07T16:35:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-reading-glasses-rs-1201"/>
+    <title>RS 1201 - Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6954.jpg?v=1592004354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale plastic reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4415853396057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>RS1201</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4415850872921</id>
+    <published>2020-01-07T16:35:13-08:00</published>
+    <updated>2020-01-07T16:35:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-cat-eye-reading-glasses-rs-1200"/>
+    <title>RS 1200 - Plastic Cat Eye Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6941.jpg?v=1579602484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale cat eye reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat eye</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4415850872921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>RS1200</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4420765450329</id>
+    <published>2020-01-07T16:25:53-08:00</published>
+    <updated>2020-01-07T16:25:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-plastic-oval-reading-glasses-rs-1207"/>
+    <title>RS 1207 - Plastic Oval Reading Glasses with Spring Hinge</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_7008.jpg?v=1592004517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wholesale reading glasses with spring hinge</p>
+<p>Measurement: 48-18-134</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>oval shaped</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4420765450329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>RS1207</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/4420761649241</id>
+    <published>2020-01-07T16:25:53-08:00</published>
+    <updated>2020-01-07T16:25:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-classic-plastic-reading-glasses-spring-hinge-rs-1008"/>
+    <title>RS 1008 - Classic Plastic Reading Glasses with Spring Hinge</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6998.jpg?v=1579603479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale reading glasses with spring hinge by assorted powers</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/4420761649241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>RS1008</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/10215082764</id>
+    <published>2017-04-06T10:01:00-07:00</published>
+    <updated>2017-04-06T10:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-classic-horn-rimmed-butterfly-accent-plastic-rs-1194"/>
+    <title>RS 1194 - Classic Horn Rimmed Butterfly Accent Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS1194-3.jpg?v=1579602479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/10215082764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>SKU02600</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9696406412</id>
+    <published>2017-02-15T11:20:00-08:00</published>
+    <updated>2017-02-15T11:20:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-plastic-womens-cat-eye-rs-1157"/>
+    <title>RS 1157 - Plastic Women&apos;s Cat Eye Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6921.jpg?v=1579602471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9696406412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>RS1157</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9696406156</id>
+    <published>2017-02-15T11:20:00-08:00</published>
+    <updated>2017-02-15T11:20:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-plastic-rectangle-rs-1155"/>
+    <title>RS 1155 - Plastic Rectangle Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6975.jpg?v=1579602470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Reading Glasses with 180<span>° hinge</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9696406156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>RS1155</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9635809612</id>
+    <published>2017-02-07T15:51:00-08:00</published>
+    <updated>2017-02-07T15:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-horn-rimmed-cat-eye-chunky-frame-plastic-rs-1153"/>
+    <title>RS 1153 - Horn Rimmed Cat Eye Chunky Frame Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_6969.jpg?v=1579602467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale cat eye reading glasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9635809612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>RS1153</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9470087372</id>
+    <published>2017-01-20T12:05:00-08:00</published>
+    <updated>2017-01-20T12:05:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-wood-printed-plastic-rs-1149"/>
+    <title>RS 1149 - Wood Printed Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1149_-_3.jpg?v=1579602464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:tag>wood print</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9470087372</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SKU02547</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9263035852</id>
+    <published>2016-12-23T13:15:00-08:00</published>
+    <updated>2016-12-23T13:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-plastic-horn-rimmed-rs-1144"/>
+    <title>RS 1144 - Plastic Horn Rimmed Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS1144-1.jpg?v=1579602460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9263035852</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>SKU02550</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/9263035660</id>
+    <published>2016-12-23T13:15:00-08:00</published>
+    <updated>2016-12-23T13:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-plastic-classic-rs-1143"/>
+    <title>RS 1143 - Plastic Classic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_9428.jpg?v=1592352747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/9263035660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>SKU02504</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8848706444</id>
+    <published>2016-11-04T11:08:00-07:00</published>
+    <updated>2016-11-04T11:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-classic-rectangular-horn-rimmed-plastic-rs-1113"/>
+    <title>RS 1113 - Classic Rectangular Horn Rimmed Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_5467_792b02e7-1b98-47e4-a383-ff340ffdf5ab.JPG?v=1579603496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8848706444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>SKU02432</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8709040332</id>
+    <published>2016-10-06T09:45:00-07:00</published>
+    <updated>2016-10-06T09:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-rectangular-rhinestones-embellished-plastic-rs-1477"/>
+    <title>RS 1477 - Rectangular Rhinestones Embellished Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/RS_1477.jpg?v=1579602540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">bulk sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>rhinestones</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8709040332</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>SKU00116</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8709036364</id>
+    <published>2016-10-06T09:42:00-07:00</published>
+    <updated>2016-10-06T09:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-rectangular-horn-rimmed-two-tone-plastic-rs-1463"/>
+    <title>RS 1463 - Rectangular Horn Rimmed Two Tone Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_5461_ffbf1e9d-53a8-46a4-8f65-64f8110d992a.JPG?v=1579602539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8709036364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SKU00110</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8704397836</id>
+    <published>2016-10-05T13:35:00-07:00</published>
+    <updated>2016-10-05T13:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-rectangular-thick-temple-rs-1442"/>
+    <title>RS 1442 - Rectangular Thick Temple Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_5454.JPG?v=1579602536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8704397836</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SKU00103</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dynasoleyewear.com/products/8704120524</id>
+    <published>2016-10-05T12:42:00-07:00</published>
+    <updated>2016-10-05T12:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dynasoleyewear.com/products/wholesale-reading-glasses-rectangular-decorative-thick-temple-plastic-rs-1209"/>
+    <title>RS 1209 - Rectangular Decorative Thick Temple Plastic Reading Glasses</title>
+    <s:type>reader</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1175/0778/products/DSC_5421_6620dceb-fd1c-4ebe-bf73-1d5e24864386.JPG?v=1579602490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>reader<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">wholesale sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>per dozen of assorted powers</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>reader</s:tag>
+    <s:tag>reading glasses</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://dynasoleyewear.com/products/8704120524</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>SKU00062</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
